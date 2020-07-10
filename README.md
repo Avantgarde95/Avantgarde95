@@ -1,4 +1,4 @@
-## Hunmin Park
+# Hunmin Park
 
 ### Education
 - M.S., School of Computing
