@@ -60,6 +60,15 @@ For companies 회사
 - Seeker list page 구직자 목록 페이지
 </details>
 
+<details>
+<summary><strong>Results</strong></summary>
+
+- Delivered the prototype to the organization and performed QA process  
+  기관 측에 프로토타입 전달 및 QA 진행
+- Gained experience of developing website with many pages  
+  많은 페이지를 가진 웹사이트 개발 경험을 얻음
+</details>
+
 <hr>
 
 ### SuperUX (2021.06 ~)
