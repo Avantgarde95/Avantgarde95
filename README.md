@@ -2,7 +2,7 @@
 
 ## 🧑‍💼 Careers
 
-<a href="https://www.tmax.co.kr/tmaxoffice" target="_blank"><img src="images/TmaxOffice.png" width="100"></a>
+### TmaxOffice
 
 Researcher (2021.03 ~)
 
@@ -21,21 +21,29 @@ Researcher (2021.03 ~)
   [타임뱅크](http://www.timebanks.or.kr/) 측 요청으로 개발
 - [Code](https://github.com/volunteer-project-1/volunteer_client)
 
+<hr>
+
 ### SuperUX (2021.06 ~ 2022.xx)
 
 - Drag-and-drop based app creation program  
   드래그 앤 드롭 기반 앱 제작 프로그램
+
+<hr>
 
 ### ToOffice (2021.03 ~ 2021.05)
 
 - Office suite for Windows and TmaxOS  
   윈도우 및 TmaxOS 환경을 위한 오피스 프로그램
 
+<hr>
+
 ### MeowPlayLive (2021.07 ~ 2021.11)
 
 - Interaction game for cat and streamer + Donation & chat system for viewers  
   고양이와 스트리머를 위한 상호작용 게임 + 시청자를 위한 도네이션 및 채팅 시스템
 - [Code](https://github.com/cheeeunahn/meowplaylive)
+
+<hr>
 
 ### MeshChain (2020.01 ~ 2021.01)
 
@@ -44,6 +52,8 @@ Researcher (2021.03 ~)
 - 3D model and intellectual property management system based on decentralized technologies  
   탈중앙화 기술 기반의 3D 모델 및 지적 재산권 관리 시스템
 - [Code](https://github.com/Avantgarde95/MeshChain-publish)
+
+<hr>
 
 ### C3DMB (2018.12 ~ 2020.04)
 
