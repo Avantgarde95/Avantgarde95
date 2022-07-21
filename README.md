@@ -4,8 +4,34 @@
 
 Researcher (2021.03 ~)
 
-- ToOffice
-- SuperUX
+<details>
+<summary>ToOffice</summary>
+
+- Ribbon UI maintenance  
+  리본 UI 유지보수
+- Implement trial mode  
+  체험판 기능 구현
+- Separate editor UI and attach communication features for attaching to other programs  
+  타 프로그램에 부착하기 위하여 편집기 UI 분리 및 통신 기능 부여
+</details>
+
+<details>
+<summary>SuperUX</summary>
+
+- Setup project and set the basic structure  
+  프로젝트 세팅 및 기본 구조 설정
+- Setup environment for Electron packaging  
+  Electron 패키징 위한 환경 구축
+- Create common library (npm package) from this product and other products  
+  이 제품 및 다른 제품들을 위한 공통 라이브러리 (npm 패키지) 개발
+- Implement common UIs used in the project  
+  프로젝트에서 쓰이는 공통 UI 개발
+  - ex. Spinner, Dropdown, Dialog
+- Implement toolpane UI  
+  툴페인 UI 개발
+- Implement component composition  
+  컴포넌트 합성 기능 개발
+</details>
 
 ## 🎨 Projects
 
