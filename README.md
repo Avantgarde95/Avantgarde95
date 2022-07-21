@@ -1,13 +1,15 @@
 # Hunmin Park
 
-## Careers
+## 🧑‍💼 Careers
 
-TmaxOffice - Researcher (2021 ~)
+<a href="https://www.tmax.co.kr/tmaxoffice" target="_blank"><img src="images/TmaxOffice.png" width="100"></a>
+
+Researcher (2021.03 ~)
 
 - ToOffice
 - SuperUX
 
-## Projects
+## 🎨 Projects
 
 ### SeeMe (2022.01 ~ 2022.06)
 
@@ -51,11 +53,11 @@ TmaxOffice - Researcher (2021 ~)
   블록체인 기반 3D 모델링 협업 시스템
 - [Code](https://github.com/Avantgarde95/C3DMB)
 
-## Education
+## 🏫 Education
 - KAIST - M.S. in School of Computing (2013 ~ 2018)
 - KAIST - B.S. in School of Computing and Department of Mathematical Sciences (2018 ~ 2021)
 
-## Research
+## 📖 Research
 - [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/)
   - Hunmin Park and Sung-Eui Yoon
   - [Code](https://github.com/Avantgarde95/C3DMB)
