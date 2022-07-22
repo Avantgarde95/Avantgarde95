@@ -1,34 +1,34 @@
-## See English version at [here](English.md)!
+## [여기서](README.md) 한국어 버전을 보실 수 있습니다!
 
 ## 🧑‍💼 Careers
 
 ### [TmaxOffice](https://www.tmax.co.kr/tmaxoffice)
 
-연구원 (2021.03 ~)
+Researcher (2021.03 ~)
 
 <details>
 <summary>
-<i>ToOffice</i> - 데스크톱용 오피스 프로그램
+<i>ToOffice</i> - Office suite for desktop
 </summary>
 
-- 리본 UI 유지보수
-- 체험판 기능 개발
-- 해당 제품 기반의 라이브러리 개발
+- Ribbon UI maintenance
+- Implement trial mode
+- Create library based on the product
 </details>
 
 <details>
 <summary>
-<i>SuperUX</i> - 드래그 앤 드롭 기반 앱 개발 플랫폼
+<i>SuperUX</i> - Drag-and-drop based app development platform
 </summary>
 
-- 개발 & 빌드 환경 구축 및 관리
-- 해당 제품 및 타 제품 위한 공통 라이브러리 개발
-- 공통 클래스 및 컴포넌트 제작
-- 툴페인 UI 구현
-- View 조합 기능 구현
+- Construct and main development & build environment
+- Create library for this product and other products
+- Create base classes and components used internally
+- Implement toolpane UI
+- Implement view composition feature
 </details>
 
-각 제품에 대한 상세 설명은 아래 "Projects"를 참고해주세요 :)
+Visit "Projects" section below to see the details of the products :)
 
 ## 🎨 Projects
 
@@ -37,10 +37,7 @@
 ![SeeMe](images/SeeMe/Preview.png)
 
 
-장애인을 위한 채용 사이트  
-[타임뱅크](http://www.timebanks.or.kr/) 기관
-
-
+Recruitment service for people with disabilities, developed for [TimeBanks Korea](http://www.timebanks.or.kr/)
 
 
 [**Code**](https://github.com/volunteer-project-1/volunteer_client)
