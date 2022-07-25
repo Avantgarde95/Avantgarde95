@@ -1,4 +1,4 @@
-## See English version at [here](English.md)!
+### See English version at [here](English.md)!
 
 ## 🧑‍💼 Careers
 
@@ -7,9 +7,9 @@
 연구원 (2021.03 ~)
 
 <details>
-<summary>
-<i>ToOffice</i> - 데스크톱용 오피스 프로그램
-</summary>
+<summary>ToOffice</summary>
+
+데스크톱용 오피스 프로그램
 
 - 리본 UI 유지보수
 - 체험판 기능 개발
@@ -18,8 +18,10 @@
 
 <details>
 <summary>
-<i>SuperUX</i> - 드래그 앤 드롭 기반 앱 개발 플랫폼
+SuperUX
 </summary>
+
+드래그 앤 드롭 기반 앱 개발 플랫폼
 
 - 개발 & 빌드 환경 구축 및 관리
 - 해당 제품 및 타 제품 위한 공통 라이브러리 개발

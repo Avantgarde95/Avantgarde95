@@ -1,4 +1,4 @@
-## [여기서](README.md) 한국어 버전을 보실 수 있습니다!
+### [여기서](README.md) 한국어 버전을 보실 수 있습니다!
 
 ## 🧑‍💼 Careers
 
@@ -7,9 +7,9 @@
 Researcher (2021.03 ~)
 
 <details>
-<summary>
-<i>ToOffice</i> - Office suite for desktop
-</summary>
+<summary>ToOffice</summary>
+
+Office suite for desktop
 
 - Ribbon UI maintenance
 - Implement trial mode
@@ -18,8 +18,10 @@ Researcher (2021.03 ~)
 
 <details>
 <summary>
-<i>SuperUX</i> - Drag-and-drop based app development platform
+SuperUX
 </summary>
+
+Drag-and-drop based app development platform
 
 - Construct and main development & build environment
 - Create library for this product and other products

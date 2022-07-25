@@ -1,4 +1,4 @@
-## <ko>See English version at [here](English.md)!</ko><en>[여기서](README.md) 한국어 버전을 보실 수 있습니다!</en>
+### <ko>See English version at [here](English.md)!</ko><en>[여기서](README.md) 한국어 버전을 보실 수 있습니다!</en>
 
 ## 🧑‍💼 Careers
 
@@ -7,9 +7,9 @@
 <ko>연구원</ko><en>Researcher</en> (2021.03 ~)
 
 <details>
-<summary>
-<i>ToOffice</i> - <ko>데스크톱용 오피스 프로그램</ko><en>Office suite for desktop</en>
-</summary>
+<summary>ToOffice</summary>
+
+<ko>데스크톱용 오피스 프로그램</ko><en>Office suite for desktop</en>
 
 - <ko>리본 UI 유지보수</ko><en>Ribbon UI maintenance</en>
 - <ko>체험판 기능 개발</ko><en>Implement trial mode</en>
@@ -18,8 +18,10 @@
 
 <details>
 <summary>
-<i>SuperUX</i> - <ko>드래그 앤 드롭 기반 앱 개발 플랫폼</ko><en>Drag-and-drop based app development platform</en>
+SuperUX
 </summary>
+
+<ko>드래그 앤 드롭 기반 앱 개발 플랫폼</ko><en>Drag-and-drop based app development platform</en>
 
 - <ko>개발 & 빌드 환경 구축 및 관리</ko><en>Construct and main development & build environment</en>
 - <ko>해당 제품 및 타 제품 위한 공통 라이브러리 개발</ko><en>Create library for this product and other products</en>
