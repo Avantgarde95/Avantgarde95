@@ -42,10 +42,14 @@ SuperUX
 장애인을 위한 채용 사이트  
 [타임뱅크](http://www.timebanks.or.kr/) 기관
 </ko>
-<en>Recruitment service for people with disabilities, developed for [TimeBanks Korea](http://www.timebanks.or.kr/)</en>
+<en>
+Recruitment service for people with disabilities, developed for [TimeBanks Korea](http://www.timebanks.or.kr/)
+</en>
 
 
 [**Code**](https://github.com/volunteer-project-1/volunteer_client)
+
+<ts/><scss/><react/><redux/><next/><mui/><serverless/>
 
 <details>
 <summary><strong>Technologies</strong></summary>
@@ -102,6 +106,8 @@ For companies 회사
 Drag-and-drop based app creation program  
 드래그 앤 드롭 기반 앱 제작 프로그램
 
+<ts/><scss/><react/><mobx/><router/><mui/><electron/>
+
 <details>
 <summary><strong>Technologies</strong></summary>
 
@@ -130,6 +136,8 @@ Drag-and-drop based app creation program
 Office suite for Windows and TmaxOS  
 윈도우 및 TmaxOS 환경을 위한 오피스 프로그램
 
+<cpp/>
+
 <details>
 <summary><strong>Technologies</strong></summary>
 
@@ -147,6 +155,8 @@ Interaction game for cat and streamer + Donation & chat system for viewers
 고양이와 스트리머를 위한 상호작용 게임 + 시청자를 위한 도네이션 및 채팅 시스템
 
 [**Code**](https://github.com/cheeeunahn/meowplaylive)
+
+<ts/><react/><emotion/><mui/><node/>
 
 <details>
 <summary><strong>Technologies</strong></summary>
@@ -176,6 +186,8 @@ Interaction game for cat and streamer + Donation & chat system for viewers
 
 [**Code**](https://github.com/Avantgarde95/MeshChain-publish)
 
+<kotlin/><ethereum/><js/>
+
 <details>
 <summary><strong>Technologies</strong></summary>
 
@@ -203,6 +215,8 @@ Interaction game for cat and streamer + Donation & chat system for viewers
 블록체인 기반 3D 모델링 협업 시스템
 
 [**Code**](https://github.com/Avantgarde95/C3DMB)
+
+<kotlin/>
 
 <details>
 <summary><strong>Technologies</strong></summary>
