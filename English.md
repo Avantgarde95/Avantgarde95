@@ -78,8 +78,10 @@ For companies 회사
 
 ### Tmax SuperUX (2021.06 ~)
 
-No-code app creation program  
-No-code 앱 제작 프로그램
+
+
+No-code app development program
+
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=FFFFFF)![MobX](https://img.shields.io/badge/MobX-D86C31?style=for-the-badge&logo=mobx&logoColor=FFFFFF)![Material UI](https://img.shields.io/badge/Material%20UI-1F3758?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGNSURBVDhP5dQ7SMNAHMfxpOKTLqIgioKbuIiC4CK6FBUdC3ZxEVwcBAc3hyPgLjh0UxzFwUGEDlIHnQTBoYrvydciiFNFxPP7z6XN9RF07w8+uUcv/yaXtE6tR2k36EXnjzWxoJWFkxwvaafMRFmUjmGe3hNtdzA3gnMUzwkLOk4j+pFhwQH6/FmJ0qMcT7GFLjRAojCIZn9E7IL2rcwgR6EN7NA/xrB8UJZPbOLIHxG7YCEfyKAeS0jhB3vQsJN0PHcBco6fald4zYJp2gRyyGKIuSRtHmE8V3MHHWgJZqpeoYnnZjGABKSwpPQJK73I8R4T/phE7WFplG5Hml6TmShmDnEUz7ULnuEE4T4pXYdlereQq5Hs4tV0Ky8iLOi5jxijJ3tVSBvW0YoLjLMmhTxf1MvYvI9WKvfQc1+CXnme8UChONboX6EH33iDn+iHYvKObchrI7+kG8hDWIXs5yHkDZCt8hP9IOwoLS+13Lr8YiR3WKHQvhmG+V9BiflTmEUn0hT7kumaj+P8AjrWbGRTmZ0EAAAAAElFTkSuQmCC&logoColor=FFFFFF)<electron/>![Webpack](https://img.shields.io/badge/Webpack-3A76BA?style=for-the-badge&logo=webpack&logoColor=FFFFFF)![Jest](https://img.shields.io/badge/Jest-8C7079?style=for-the-badge&logo=jest&logoColor=FFFFFF)![Storybook](https://img.shields.io/badge/Storybook-CB3665?style=for-the-badge&logo=storybook&logoColor=FFFFFF)
 
@@ -108,8 +110,10 @@ No-code 앱 제작 프로그램
 
 ### Tmax ToOffice (2021.03 ~ 2021.05)
 
-Office suite for Windows and TmaxOS  
-윈도우 및 TmaxOS 환경을 위한 오피스 프로그램
+
+
+Office suite for Windows and TmaxOS
+
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)![WinAPI](https://img.shields.io/badge/Win%20API-3171CD?style=for-the-badge&logo=windows&logoColor=FFFFFF)
 
@@ -126,8 +130,12 @@ Office suite for Windows and TmaxOS
 
 ![MeowPlayLive](images/MeowPlayLive/Preview.jpg)
 
-Interaction game for cat and streamer + Donation & chat system for viewers  
-고양이와 스트리머를 위한 상호작용 게임 + 시청자를 위한 도네이션 및 채팅 시스템
+
+
+Web interface that enables cat live stream viewers to interact with the cat in the video
+
+Created for the paper [MeowPlayLive: Enhancing Animal Live Streaming Experience Through Voice Message-Based Real-Time Viewer-Animal Interaction](https://dl.acm.org/doi/abs/10.1145/3532106.3533553) presented at [DIS 2022](https://dis.acm.org/2022/).
+
 
 [![Code](images/Code.svg)](https://github.com/cheeeunahn/meowplaylive)
 
@@ -156,8 +164,12 @@ Interaction game for cat and streamer + Donation & chat system for viewers
 
 ![MeshChain](images/MeshChain/Preview.png)
 
-3D model and intellectual property management system based on decentralized technologies  
-탈중앙화 기술 기반의 3D 모델 및 지적 재산권 관리 시스템
+
+
+3D model and intellectual property management system based on decentralized technologies
+
+Created for the paper [MeshChain: Secure 3D model and intellectual property management powered by blockchain technology](https://link.springer.com/chapter/10.1007/978-3-030-89029-2_40) presented at [CGI 2021](http://www.cgs-network.org/cgi21/program/).
+
 
 [![Code](images/Code.svg)](https://github.com/Avantgarde95/MeshChain-publish)
 
@@ -186,8 +198,12 @@ Interaction game for cat and streamer + Donation & chat system for viewers
 
 ![C3DMB](images/C3DMB/Preview.png)
 
-3D modeling collaboration system based on blockchain  
-블록체인 기반 3D 모델링 협업 시스템
+
+
+3D modeling collaboration system based on blockchain
+
+Created for the paper [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/).
+
 
 [![Code](images/Code.svg)](https://github.com/Avantgarde95/C3DMB)
 

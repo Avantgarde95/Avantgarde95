@@ -80,8 +80,12 @@ For companies 회사
 
 ### Tmax SuperUX (2021.06 ~)
 
-No-code app creation program  
-No-code 앱 제작 프로그램
+<ko>
+No-code 앱 개발 프로그램
+</ko>
+<en>
+No-code app development program
+</en>
 
 <ts/><scss/><react/><router/><mobx/><mui/><electron/><webpack/><jest/><storybook/>
 
@@ -110,8 +114,12 @@ No-code 앱 제작 프로그램
 
 ### Tmax ToOffice (2021.03 ~ 2021.05)
 
-Office suite for Windows and TmaxOS  
+<ko>
 윈도우 및 TmaxOS 환경을 위한 오피스 프로그램
+</ko>
+<en>
+Office suite for Windows and TmaxOS
+</en>
 
 <cpp/><winapi/>
 
@@ -128,8 +136,16 @@ Office suite for Windows and TmaxOS
 
 ![MeowPlayLive](images/MeowPlayLive/Preview.jpg)
 
-Interaction game for cat and streamer + Donation & chat system for viewers  
-고양이와 스트리머를 위한 상호작용 게임 + 시청자를 위한 도네이션 및 채팅 시스템
+<ko>
+고양이 방송 시청자가 방송 속의 고양이와 상호작용할 수 있게 해주는 웹 인터페이스
+
+[DIS 2022](https://dis.acm.org/2022/)에서 발표된 논문 [MeowPlayLive: Enhancing Animal Live Streaming Experience Through Voice Message-Based Real-Time Viewer-Animal Interaction](https://dl.acm.org/doi/abs/10.1145/3532106.3533553)을 위하여 제작하였습니다.
+</ko>
+<en>
+Web interface that enables cat live stream viewers to interact with the cat in the video
+
+Created for the paper [MeowPlayLive: Enhancing Animal Live Streaming Experience Through Voice Message-Based Real-Time Viewer-Animal Interaction](https://dl.acm.org/doi/abs/10.1145/3532106.3533553) presented at [DIS 2022](https://dis.acm.org/2022/).
+</en>
 
 [<project-code/>](https://github.com/cheeeunahn/meowplaylive)
 
@@ -158,8 +174,16 @@ Interaction game for cat and streamer + Donation & chat system for viewers
 
 ![MeshChain](images/MeshChain/Preview.png)
 
-3D model and intellectual property management system based on decentralized technologies  
+<ko>
 탈중앙화 기술 기반의 3D 모델 및 지적 재산권 관리 시스템
+
+[CGI 2021](http://www.cgs-network.org/cgi21/program/)에서 발표된 논문 [MeshChain: Secure 3D model and intellectual property management powered by blockchain technology](https://link.springer.com/chapter/10.1007/978-3-030-89029-2_40)를 위하여 제작하였습니다.
+</ko>
+<en>
+3D model and intellectual property management system based on decentralized technologies
+
+Created for the paper [MeshChain: Secure 3D model and intellectual property management powered by blockchain technology](https://link.springer.com/chapter/10.1007/978-3-030-89029-2_40) presented at [CGI 2021](http://www.cgs-network.org/cgi21/program/).
+</en>
 
 [<project-code/>](https://github.com/Avantgarde95/MeshChain-publish)
 
@@ -188,8 +212,16 @@ Interaction game for cat and streamer + Donation & chat system for viewers
 
 ![C3DMB](images/C3DMB/Preview.png)
 
-3D modeling collaboration system based on blockchain  
+<ko>
 블록체인 기반 3D 모델링 협업 시스템
+
+논문 [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/)를 위하여 제작하였습니다.
+</ko>
+<en>
+3D modeling collaboration system based on blockchain
+
+Created for the paper [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/).
+</en>
 
 [<project-code/>](https://github.com/Avantgarde95/C3DMB)
 
