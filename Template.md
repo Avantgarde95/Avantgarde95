@@ -244,7 +244,7 @@ Created for the paper [Collaborative 3D modeling system based on blockchain](htt
 - Blender
 </details>
 
-## 🧑‍💼 Careers
+## 🧑‍💼 <ko>경력</ko><en>Careers</en>
 
 ### [TmaxOffice](https://www.tmax.co.kr/tmaxoffice) <ko>연구원</ko><en>Researcher</en> (2021.03 ~)
 
@@ -255,13 +255,13 @@ Created for the paper [Collaborative 3D modeling system based on blockchain](htt
 I participated in maintaining the desktop office product ToOffice and adding some features on it, and participated in the development of the no-code app development platform SuperUX.
 </en>
 
-## 🏫 Education
+## 🏫 <ko>학력</ko><en>Education</en>
 
 KAIST <ko>전산학부 석사</ko><en>M.S. in School of Computing</en> (2018 ~ 2021)
 
 KAIST <ko>전산학부 및 수리과학과 학사 (복수전공)</ko><en>B.S. in School of Computing and Department of Mathematical Sciences (Double major)</en> (2013 ~ 2018)
 
-## 📖 Research
+## 📖 <ko>연구</ko><en>Research</en>
 
 ### Collaborative 3D modeling system based on blockchain
 

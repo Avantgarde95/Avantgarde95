@@ -224,7 +224,7 @@ No-code 앱 개발 프로그램
 - Blender
 </details>
 
-## 🧑‍💼 Careers
+## 🧑‍💼 경력
 
 ### [TmaxOffice](https://www.tmax.co.kr/tmaxoffice) 연구원 (2021.03 ~)
 
@@ -233,13 +233,13 @@ No-code 앱 개발 프로그램
 
 
 
-## 🏫 Education
+## 🏫 학력
 
 KAIST 전산학부 석사 (2018 ~ 2021)
 
 KAIST 전산학부 및 수리과학과 학사 (복수전공) (2013 ~ 2018)
 
-## 📖 Research
+## 📖 연구
 
 ### Collaborative 3D modeling system based on blockchain
 
