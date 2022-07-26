@@ -136,7 +136,7 @@ Drag-and-drop based app creation program
 Office suite for Windows and TmaxOS  
 윈도우 및 TmaxOS 환경을 위한 오피스 프로그램
 
-<cpp/>
+<cpp/><winapi/>
 
 <details>
 <summary><strong>Technologies</strong></summary>
