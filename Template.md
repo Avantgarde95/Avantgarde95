@@ -33,6 +33,54 @@ Created for [TimeBanks Korea](http://www.timebanks.or.kr/).
 <ts/><scss/><react/><redux/><mui/><next/><aws/>
 
 <details>
+<summary><strong>About</strong></summary>
+
+<ko>
+프론트엔드 개발자 2명, 백엔드 개발자 2명, 디자이너 2명으로 팀을 이루어 진행한 사이드 프로젝트입니다. [타임뱅크코리아](http://www.timebanks.or.kr/)에서 장애인들과 회사들을 연결해주는 플랫폼을 개발해달라는 제안을 하였고, 그 취지가 좋다고 생각하여 재능기부 성격으로 프로젝트를 진행하였습니다.
+
+서비스는 현재 아래와 같은 기능들을 제공하고 있습니다. 기관과 QA를 진행하고 추가 기능을 기획 & 개발하는 중입니다.
+
+- 구직자로 로그인
+  - 이력서 편집
+  - 회사들 정보 보기
+- 회사로 로그인
+  - 회사 정보 편집
+  - 채용 정보 편집
+  - 구직자 목록 보기
+- 기타 기능
+  - 미디어 뉴스
+  - 고객센터
+</ko>
+<en>
+This is a side project run by a team of 2 frontend developers, 2 backend developers, and 2 designers. [TimeBanks Korea](http://www.timebanks.or.kr/) proposed us to develop a platform that connects the disabled and the companies. We thought that such purpose is good, so we proceeded with the project as a talent donation.
+
+The service currently provides the following features. We are doing QA with the organization and planning & developing additional features.
+
+- Login as job seeker
+  - Edit resume
+  - See the information of the companies
+- Login as company
+  - Edit company information
+  - Edit job information
+  - See the information of the job seekers
+- Other features
+  - Media news
+  - FAQ
+</en>
+</details>
+
+<details>
+<summary><strong>My role</strong></summary>
+
+<ko>
+로그인 & 회원가입 페이지를 구현하였으며, 이력서 & 회사 정보 편집, 구직자 & 회사 정보 열람 등 상세 페이지들 개발을 맡았습니다. 또한 랜딩 페이지 일부분에 참여하였습니다.
+</ko>
+<en>
+I implemented login & registration page, and also developed inner pages such as resume & company info editor, job seeker & company info viewer. I also participated in some parts of the landing page.
+</en>
+</details>
+
+<details>
 <summary><strong>Technologies</strong></summary>
 
 - TypeScript
@@ -50,36 +98,6 @@ Created for [TimeBanks Korea](http://www.timebanks.or.kr/).
   - For automatic deployment
 </details>
 
-<details>
-<summary><strong>Features</strong></summary>
-
-For all users 모든 사용자
-
-- Landing page 랜딩 페이지
-- Media news page 미디어 뉴스 페이지
-- FAQ page FAQ 페이지
-
-For job seekers 구직자
-
-- Resume editor page 이력서 편집 페이지
-- Company list page 회사 목록 페이지
-
-For companies 회사
-
-- Company info editor page 회사 정보 편집 페이지
-- Job info editor page 채용 정보 편집 페이지
-- Seeker list page 구직자 목록 페이지
-</details>
-
-<details>
-<summary><strong>Results</strong></summary>
-
-- Delivered the prototype to the organization and performed QA process  
-  기관 측에 프로토타입 전달 및 QA 진행
-- Gained experience of developing website with many pages  
-  많은 페이지를 가진 웹사이트 개발 경험을 얻음
-</details>
-
 <hr>
 
 ### Tmax SuperUX (2021.06 ~)
@@ -92,6 +110,17 @@ No-code app development program
 </en>
 
 <ts/><scss/><react/><router/><mobx/><mui/><electron/><webpack/><jest/><storybook/>
+
+<details>
+<summary><strong>My role</strong></summary>
+
+<ko>
+개발 & 빌드 환경 세팅 및 관리를 전담하였습니다. 프로젝트에서 사용하는 기본 클래스들 및 공통 컴포넌트들의 개발을 주로 맡았습니다. 사용자가 view들을 합성하여 새로운 view를 만드는 기능을 개발하였습니다. 이 프로젝트 및 다른 프로젝트에서 사용하는 공통 라이브러리의 개발도 맡았습니다.
+</ko>
+<en>
+I setup and maintained development & build environment of the project. I was mainly responsible for the development of the base classes and common components used throughout the project. I created a feature for users to create new views by composing existing views. I also developed a common library used by this project and other projects.
+</en>
+</details>
 
 <details>
 <summary><strong>Technologies</strong></summary>
@@ -128,6 +157,17 @@ Office suite for Windows and TmaxOS
 <cpp/><winapi/>
 
 <details>
+<summary><strong>My role</strong></summary>
+
+<ko>
+제품에 체험판 기능을 개발하여 넣었습니다. 편집기 부분의 라이브러리화 작업에 참여하였으며, 그에 필요한 UI 수정, 통신 기능 부여 및 데이터 처리를 맡았습니다. 해당 라이브러리의 개발 문서를 작성하였습니다.
+</ko>
+<en>
+I created trial mode for the product. I participated in separation of the editor part as a library: I was responsible for the UI modification, communication feature development and data processing needed for that job. I wrote the development documentation for that library.
+</en>
+</details>
+
+<details>
 <summary><strong>Technologies</strong></summary>
 
 - C++
@@ -153,7 +193,45 @@ Created for the paper [MeowPlayLive: Enhancing Animal Live Streaming Experience 
 
 [<project-code/>](https://github.com/cheeeunahn/meowplaylive)
 
-<ts/><react/><emotion/><mui/><socketio/><node/>
+<ts/><js/><react/><emotion/><mui/><socketio/><node/>
+
+<details>
+<summary><strong>About</strong></summary>
+
+<ko>
+두 명이서 진행한 프로젝트이며, 위 논문에 실을 실험을 위하여 제작하였습니다. 아래와 같은 기능들을 제공합니다.
+
+- 고양이를 위한 인터페이스
+  - 고양이를 위한 터치 게임 (물고기, 쥐 등을 누르면 시청자가 녹음한 것이 재생됨)
+- 시청자를 위한 인터페이스
+  - 게임의 진행 상황을 실시간으로 보는 기능
+  - 자신의 음성을 녹음하고 포인트를 써서 고양이에게 보내는 기능
+  - 사용한 포인트에 따른 랭킹
+  - 유튜브와 유사한 UI의 채팅 기능
+</ko>
+<en>
+This project was carried out by two people, and it was created for the experiment to be used in the above paper. It provides the following features.
+
+- Interface for the cat
+  - Touch game for the cat (If the cat presses the fishes, mouses, ..., the sounds recorded by the viewers are played)
+- Interface for the viewer
+  - See the progress of the game in real time
+  - Record the viewer's voice and sending it to the cat after spending some points
+  - Ranking according to the amount of spent points
+  - Chat which has similar UI to YouTube
+</en>
+</details>
+
+<details>
+<summary><strong>My role</strong></summary>
+
+<ko>
+녹음하고 보내기 기능, 채팅 기능, 랭킹 기능을 구현하였습니다. 또한 팀원이 P5.js로 구현한 UI들을 React에 부착하는 작업을 하였습니다. 서버 및 DB를 팀원과 같이 개발하였습니다.
+</ko>
+<en>
+I implemented the recording & sending UI, chat UI, and ranking UI. In addition, I attached P5.js-based UIs implemented by other member to React. I and the other member developed the server and DB together.
+</en>
+</details>
 
 <details>
 <summary><strong>Technologies</strong></summary>
