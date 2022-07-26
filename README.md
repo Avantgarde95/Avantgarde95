@@ -1,38 +1,20 @@
 ### See English version at [here](English.md)!
 
-## 🧑‍💼 Careers
+## 🖥️ 기술 스택
 
-### [TmaxOffice](https://www.tmax.co.kr/tmaxoffice)
+|Technology|About|
+|--|--|
+|![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)|필요한 UI들을 구현할 수 있습니다. 여러 사람이 사용하는 공통 컴포넌트 구현 경험이 있습니다. State, Ref, Context 등의 API들을 적재적소에 사용할 수 있습니다. Custom hook을 사용하여 관심사를 분리할 수 있습니다. Redux, MobX, Recoil 등을 사용하여 상태 관리를 할 수 있습니다.<br/><br/>![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=FFFFFF)![MobX](https://img.shields.io/badge/MobX-D86C31?style=for-the-badge&logo=mobx&logoColor=FFFFFF)![Material UI](https://img.shields.io/badge/Material%20UI-1F3758?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGNSURBVDhP5dQ7SMNAHMfxpOKTLqIgioKbuIiC4CK6FBUdC3ZxEVwcBAc3hyPgLjh0UxzFwUGEDlIHnQTBoYrvydciiFNFxPP7z6XN9RF07w8+uUcv/yaXtE6tR2k36EXnjzWxoJWFkxwvaafMRFmUjmGe3hNtdzA3gnMUzwkLOk4j+pFhwQH6/FmJ0qMcT7GFLjRAojCIZn9E7IL2rcwgR6EN7NA/xrB8UJZPbOLIHxG7YCEfyKAeS0jhB3vQsJN0PHcBco6fald4zYJp2gRyyGKIuSRtHmE8V3MHHWgJZqpeoYnnZjGABKSwpPQJK73I8R4T/phE7WFplG5Hml6TmShmDnEUz7ULnuEE4T4pXYdlereQq5Hs4tV0Ky8iLOi5jxijJ3tVSBvW0YoLjLMmhTxf1MvYvI9WKvfQc1+CXnme8UChONboX6EH33iDn+iHYvKObchrI7+kG8hDWIXs5yHkDZCt8hP9IOwoLS+13Lr8YiR3WKHQvhmG+V9BiflTmEUn0hT7kumaj+P8AjrWbGRTmZ0EAAAAAElFTkSuQmCC&logoColor=FFFFFF)|
+|![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF)|최신, 그리고 이전의 문법에 모두 익숙합니다. DOM API 및 그밖의 브라우저 API들을 사용할 수 있습니다.|
+|![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)|웹 관련 개발 시에 적극적으로 사용하고 있습니다. Union, intersection, generics, const assertion 등을 이용하여 확장성 있고 안전한 인터페이스들을 설계할 수 있습니다.|
+|![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)|필요한 레이아웃과 효과들을 만들어 낼 수 있습니다. keyframes 등 애니메이션 사용에도 익숙합니다. CSS modules, SCSS, CSS-in-JS (ex. Emotion) 등을 사용하여 코드 재사용, 이름 중복 등의 문제를 해결하는 경우가 많습니다.<br/><br/>![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)![Emotion](https://img.shields.io/badge/Emotion-C346A8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARlSURBVDhPdZRrbFNlGMf/59Lbabeu3UrXrRubsG7sXqVgAkNFmBNYFi9BISEGNUqMErN4+UDwgxE/gMagqMEL0RhJTMShAY0ajG7GOQSWXUq3zq6zq3SM9d61PT3tOZ4dTqq14ZecvG+e93n+5/++73MOgVtw8qnj5U1E/WkVqeoCAZ6n+BmW4n4KKG98tPfoEy45rYhbCn722MevdmjXHib+l5KjeD6qTnw4khl78aXjh+JyOE+R4NTUFDH75tjRLCv0U6DJGt2q4iQxkGJYl1PwdO9/44BfjkpQ8phnW/rOZ+uU1tdKFAzhjHkQYVNQkBQYWiVn3ETB0SaDQr+zfWP76e9+/yElh0HKYx4TbTy4MvICjztalqFqOIfJuA/u2H+MiA4JpVi6zDe2U01H5KhEgeCxY0d1CoFuWJkvJJdgqA4AzQZk3WEEkyH40ouI55ZBqigIHI9YSeoaG8088N4zb1klAZECQYqgqZVLWMxcR1j7K1y6MELvdqI5WALKG4E/dxkLbBDJZAqCAjAL5VWzpP8VRYLeJ0sUCva/0B/lwCVY42+wrP8DXw9YUOVLSmuOvouwbxlEgp7CSGQYS6kwiAzQUmNTTdDTH0hJIkVnKBDwKg0B/LVgQYhzY3zTJJLqOMatZcgQClyITGMmOodIKgE2mxH3Q1BvnzoRlMuLBTM8N/rLQifquUfQU9eAezv64NxJoKfRhWbHNnRvpGBzBCWHaYKDN+YbkkslitpmTVXjo51lqVa15yp0P67BUFUUTz58BiZ1GprsBNrqFmEui2DYSUFFmL7Yc2L/O3KpRIHDgzue74klUrtvXCuH/1I1Bvt02PPQWWiFBKLJf9ubEKdh8eKG58eW5FCevODTuw/UCJywl6XZM/5YGKN2HvfvOIvK7CKuDAhwngPioZuiV92lQMgGZLHvuQcPVkpBmfyWLzsvxTpbOobVrOYwRdIGVktjQqGG3fQ3atfmULE6C62BwJezTbg8eI/YMjrcoIOHCJ7QX3SPXJVlCs9ww7qNjtqK+u7JrZ0mt60SgbQR80skzLxfbGwKX7nrcIrfj+vbN0FvKMeWTJlBaaaOfDv8/c3eEik4Q7ve5vA2V6tIs0nQtLWBrLZie6Ub6xtzaK3nsb4iAIYhQTIMfGYGMxrCYY4bT8rlEnmHr7/8ydaWrNmumw+VVDt9xlWuOVW6xgyKDKKrYhZK8csY9FuwyHVh87lRdIzNww4LSmlt7d1d9xlzZuXI9LSTzTtU55SP5xhdv8PQtKVDv7bUtszgrm8mMDfeCk+4BH5x66NTm7H5wgxu582w2qehpdWIkoTWx2Z2dVs3MCs6eYdqZcYUr63Z1cqWQkOpxL7TQ00pobkewwwHzPnV0P/ZhHX61ahQl4o/Bhe4aD1+jk3g/JVPqQSTen9y0hmXBHt7e83XQoGBUMCr4RvXwcZqpZesOGDEx7tAIxe04DaVFRbGKK0RkSo4+TDOj3+OWCahUSiUYY/HM/QPnwGrCh3ur7kAAAAASUVORK5CYII=&logoColor=FFFFFF)|
+|![Webpack](https://img.shields.io/badge/Webpack-3A76BA?style=for-the-badge&logo=webpack&logoColor=FFFFFF)||
+|![Next.js](https://img.shields.io/badge/Next.js-474747?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAITcAACE3ATNYn3oAAAITSURBVDhPnVUxixpBFB4VFVs79xeIjaCHiK0WIkIIJJLm0ihqYWthIQj+h7MS/QEJpLFREWtRrOwV1mijhSIpFF7et5k7M7dzmyMfPH37zbzv7ey8N+MSGhBRgP8+7Xa7j4vFIn44HAyXyyWCweDPeDw+D4VCP3j8G3O/rAAnsNiX0Whk5nI58nq9BOpvA5fP52k8HpuYy5wePOg5nU5P1WqVOLNN6LVhTrlcpvP5/IRY5lRALJPJaIOdDDGIZf8OvDqywf0fq1QqLCGXz04A3+w9y3zLEAsNaEHwKzbg9aRkMkmFQsHGt9ttymazNh4ajEex3W6/63YTgbfbjVKplMJPJhOq1WoKB4MGtNxcZw/X65U5Oy6Xi+h2uyIQQFn+AS9PeiqgAS338Xg0JGfDYDAQpmmKVqslGWdAyy19LZC1VCqJYrEoEomEZJ3hRjtJX4vNZiPq9bq1dL/fL9brtRyxA1pu7s0Ff1BJ6dHv9y3hZrMpGo2G4N6WI3dAA32OsnnUlQ12udfrvTwbhkH7/Z5isRh5PB5lLuylbPhHW9iRSIQ4o8KhLpfLJfl8PoVXChtg592t1+l0iHdd4RALDfbvQIOn02llos64Jmk2m1E0GrWetYcDwBms4wvZ/tXX4XCYptOpdSggBrHM64FXHw6HjgcsxlarlfaAdboCPvMV8GE+nz88d9PzFcA7/sYVIMRvOb7F5mfgXYAAAAAASUVORK5CYII=&logoColor=FFFFFF)||
+|![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FFFFFF)|<br/><br/>![Express](https://img.shields.io/badge/Express-100000?style=for-the-badge&logo=Express&logoColor=FFFFFF)![Socket.io](https://img.shields.io/badge/Socket.io-gray?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF)|
+|![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)||
+|![OpenGL](https://img.shields.io/badge/OpenGL-gray?style=for-the-badge&logo=opengl&logoColor=FFFFFF)||
 
-연구원 (2021.03 ~)
-
-<details>
-<summary>ToOffice</summary>
-
-데스크톱용 오피스 프로그램
-
-- 리본 UI 유지보수
-- 체험판 기능 개발
-- 해당 제품 기반의 라이브러리 개발
-</details>
-
-<details>
-<summary>
-SuperUX
-</summary>
-
-드래그 앤 드롭 기반 앱 개발 플랫폼
-
-- 개발 & 빌드 환경 구축 및 관리
-- 해당 제품 및 타 제품 위한 공통 라이브러리 개발
-- 공통 클래스 및 컴포넌트 제작
-- 툴페인 UI 구현
-- View 조합 기능 구현
-</details>
-
-각 제품에 대한 상세 설명은 아래 "Projects"를 참고해주세요 :)
-
-## 🎨 Projects
+## 🎨 프로젝트
 
 ### SeeMe (2022.01 ~ 2022.06)
 
@@ -99,7 +81,7 @@ For companies 회사
 
 <hr>
 
-### SuperUX (2021.06 ~)
+### Tmax SuperUX (2021.06 ~)
 
 Drag-and-drop based app creation program  
 드래그 앤 드롭 기반 앱 제작 프로그램
@@ -129,7 +111,7 @@ Drag-and-drop based app creation program
 
 <hr>
 
-### ToOffice (2021.03 ~ 2021.05)
+### Tmax ToOffice (2021.03 ~ 2021.05)
 
 Office suite for Windows and TmaxOS  
 윈도우 및 TmaxOS 환경을 위한 오피스 프로그램
@@ -224,6 +206,12 @@ Interaction game for cat and streamer + Donation & chat system for viewers
 - JOGL (OpenGL)
 - Blender
 </details>
+
+## 🧑‍💼 Careers
+
+### [TmaxOffice](https://www.tmax.co.kr/tmaxoffice) 연구원 (2021.03 ~)
+
+- 
 
 ## 🏫 Education
 

@@ -1,38 +1,20 @@
 ### <ko>See English version at [here](English.md)!</ko><en>[여기서](README.md) 한국어 버전을 보실 수 있습니다!</en>
 
-## 🧑‍💼 Careers
+## 🖥️ <ko>기술 스택</ko><en>Technologies</en>
 
-### [TmaxOffice](https://www.tmax.co.kr/tmaxoffice)
+|Technology|About|
+|--|--|
+|<react/>|<ko>필요한 UI들을 구현할 수 있습니다. 여러 사람이 사용하는 공통 컴포넌트 구현 경험이 있습니다. State, Ref, Context 등의 API들을 적재적소에 사용할 수 있습니다. Custom hook을 사용하여 관심사를 분리할 수 있습니다. Redux, MobX, Recoil 등을 사용하여 상태 관리를 할 수 있습니다.</ko><en>I can implement the UIs we need. I have experience implementing common components used by multiple people. I can use the APIs such as State, Ref, and Context in the right place. I can use custom hooks to separate concerns. I can manage complex states using Redux, MobX, Recoil, etc.</en><br/><br/><redux/><mobx/><mui/>|
+|<js/>|<ko>최신, 그리고 이전의 문법에 모두 익숙합니다. DOM API 및 그밖의 브라우저 API들을 사용할 수 있습니다.</ko><en>I'm familiar with both the latest and the old versions of JavaScript. I can use DOM APIs and other browser APIs, too.</en>|
+|<ts/>|<ko>웹 관련 개발 시에 적극적으로 사용하고 있습니다. Union, intersection, generics, const assertion 등을 이용하여 확장성 있고 안전한 인터페이스들을 설계할 수 있습니다.</ko><en>I'm using it actively in web development. I can construct extendable and safe interfaces using union, intersection, generics, const assertion, etc.</en>|
+|<css/>|<ko>필요한 레이아웃과 효과들을 만들어 낼 수 있습니다. keyframes 등 애니메이션 사용에도 익숙합니다. CSS modules, SCSS, CSS-in-JS (ex. Emotion) 등을 사용하여 코드 재사용, 이름 중복 등의 문제를 해결하는 경우가 많습니다.</ko><en>I can create the layouts and effects we need. I am familiar with animations such as keyframes, too. I usually use CSS modules, SCSS, or CSS-in-JS (ex. Emotion) achieve code reuse and prevention of duplicate names.</en><br/><br/><scss/><emotion/>|
+|<webpack/>|<ko></ko><en></en>|
+|<next/>|<ko></ko><en></en>|
+|<node/>|<ko></ko><en></en><br/><br/><express/><socketio/>|
+|<cpp/>|<ko></ko><en></en>|
+|<opengl/>|<ko></ko><en></en>|
 
-<ko>연구원</ko><en>Researcher</en> (2021.03 ~)
-
-<details>
-<summary>ToOffice</summary>
-
-<ko>데스크톱용 오피스 프로그램</ko><en>Office suite for desktop</en>
-
-- <ko>리본 UI 유지보수</ko><en>Ribbon UI maintenance</en>
-- <ko>체험판 기능 개발</ko><en>Implement trial mode</en>
-- <ko>해당 제품 기반의 라이브러리 개발</ko><en>Create library based on the product</en>
-</details>
-
-<details>
-<summary>
-SuperUX
-</summary>
-
-<ko>드래그 앤 드롭 기반 앱 개발 플랫폼</ko><en>Drag-and-drop based app development platform</en>
-
-- <ko>개발 & 빌드 환경 구축 및 관리</ko><en>Construct and main development & build environment</en>
-- <ko>해당 제품 및 타 제품 위한 공통 라이브러리 개발</ko><en>Create library for this product and other products</en>
-- <ko>공통 클래스 및 컴포넌트 제작</ko><en>Create base classes and components used internally</en>
-- <ko>툴페인 UI 구현</ko><en>Implement toolpane UI</en>
-- <ko>View 조합 기능 구현</ko><en>Implement view composition feature</en>
-</details>
-
-<ko>각 제품에 대한 상세 설명은 아래 "Projects"를 참고해주세요 :)</ko><en>Visit "Projects" section below to see the details of the products :)</en>
-
-## 🎨 Projects
+## 🎨 <ko>프로젝트</ko><en>Projects</en>
 
 ### SeeMe (2022.01 ~ 2022.06)
 
@@ -101,7 +83,7 @@ For companies 회사
 
 <hr>
 
-### SuperUX (2021.06 ~)
+### Tmax SuperUX (2021.06 ~)
 
 Drag-and-drop based app creation program  
 드래그 앤 드롭 기반 앱 제작 프로그램
@@ -131,7 +113,7 @@ Drag-and-drop based app creation program
 
 <hr>
 
-### ToOffice (2021.03 ~ 2021.05)
+### Tmax ToOffice (2021.03 ~ 2021.05)
 
 Office suite for Windows and TmaxOS  
 윈도우 및 TmaxOS 환경을 위한 오피스 프로그램
@@ -226,6 +208,12 @@ Interaction game for cat and streamer + Donation & chat system for viewers
 - JOGL (OpenGL)
 - Blender
 </details>
+
+## 🧑‍💼 Careers
+
+### [TmaxOffice](https://www.tmax.co.kr/tmaxoffice) <ko>연구원</ko><en>Researcher</en> (2021.03 ~)
+
+- 
 
 ## 🏫 Education
 
