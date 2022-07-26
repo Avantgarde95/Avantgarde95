@@ -106,7 +106,7 @@ For companies 회사
 Drag-and-drop based app creation program  
 드래그 앤 드롭 기반 앱 제작 프로그램
 
-<ts/><scss/><react/><mobx/><router/><mui/><electron/>
+<ts/><scss/><react/><mobx/><router/><mui/><electron/><eslint/><stylelint/><webpack/><jest/><storybook/>
 
 <details>
 <summary><strong>Technologies</strong></summary>
