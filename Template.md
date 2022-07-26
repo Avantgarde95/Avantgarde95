@@ -4,7 +4,7 @@
 
 |Technology|About|
 |--|--|
-|<react/>|<ko>필요한 UI들을 구현할 수 있습니다. 여러 사람이 사용하는 공통 컴포넌트 구현 경험이 있습니다. Hook들과 외부 상태 관리 도구들을 적절히 사용하여 컴포넌트들을 관리할 수 있습니다.</ko><en>I can implement the UIs we need. I have experience implementing common components used by multiple people. I can manage the components by using the hooks and external state management tools properly.</en><br/><br/><redux/><mobx/><mui/><next/><router/>|
+|<react/>|<ko>필요한 UI들을 구현할 수 있습니다. 여러 사람이 사용하는 공통 컴포넌트 구현 경험이 있습니다. Hook들과 외부 상태 관리 도구들을 적절히 사용하여 컴포넌트들을 관리할 수 있습니다.</ko><en>I can implement the UIs we need. I have experience implementing common components used by multiple people. I can manage the components by using the hooks and external state management tools properly.</en><br/><br/><redux/><mobx/><mui/><next/>|
 |<js/>|<ko>최신, 그리고 이전 문법에 모두 익숙합니다. DOM API 및 그밖의 브라우저 API들을 사용할 수 있습니다.</ko><en>I'm familiar with both the latest and the old versions of JavaScript. I can use DOM APIs and other browser APIs, too.</en>|
 |<ts/>|<ko>웹 관련 개발 시에 적극적으로 사용하고 있습니다. Union, intersection, generics 등을 이용하여 확장성 있고 안전한 인터페이스를 설계할 수 있습니다.</ko><en>I'm using it actively in web development. I can construct extendable and safe interfaces using union, intersection, generics, etc.</en>|
 |<css/>|<ko>필요한 레이아웃과 효과들을 만들어 낼 수 있습니다. 애니메이션 사용에도 익숙합니다. CSS modules, SCSS, CSS-in-JS 등을 활용하여 효율적으로 스타일을 작성하는 것을 선호합니다.</ko><en>I can create the layouts and effects we need. I am familiar with animations, too. I prefer to use the methods such as CSS modules, SCSS, or CSS-in-JS to write the styles efficiently.</en><br/><br/><scss/><emotion/>|
@@ -301,7 +301,7 @@ Created for the paper [MeshChain: Secure 3D model and intellectual property mana
 <ko>
 블록체인 기반 3D 모델링 협업 시스템
 
-논문 [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/)를 위하여 제작하였습니다.
+논문 [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/)을 위하여 제작하였습니다.
 </ko>
 <en>
 3D modeling collaboration system based on blockchain
