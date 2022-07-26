@@ -49,7 +49,7 @@ Recruitment service for people with disabilities, developed for [TimeBanks Korea
 
 [**Code**](https://github.com/volunteer-project-1/volunteer_client)
 
-<ts/><scss/><react/><redux/><next/><mui/><serverless/>
+<ts/><scss/><react/><redux/><mui/><next/><aws/>
 
 <details>
 <summary><strong>Technologies</strong></summary>
@@ -106,7 +106,7 @@ For companies 회사
 Drag-and-drop based app creation program  
 드래그 앤 드롭 기반 앱 제작 프로그램
 
-<ts/><scss/><react/><mobx/><router/><mui/><electron/><eslint/><stylelint/><webpack/><jest/><storybook/>
+<ts/><scss/><react/><router/><mobx/><mui/><electron/><webpack/><jest/><storybook/>
 
 <details>
 <summary><strong>Technologies</strong></summary>
@@ -156,7 +156,7 @@ Interaction game for cat and streamer + Donation & chat system for viewers
 
 [**Code**](https://github.com/cheeeunahn/meowplaylive)
 
-<ts/><react/><emotion/><mui/><node/>
+<ts/><react/><emotion/><mui/><socketio/><node/>
 
 <details>
 <summary><strong>Technologies</strong></summary>
@@ -186,7 +186,7 @@ Interaction game for cat and streamer + Donation & chat system for viewers
 
 [**Code**](https://github.com/Avantgarde95/MeshChain-publish)
 
-<kotlin/><ethereum/><js/>
+<kotlin/><ethereum/><solidity/><opengl/><js/>
 
 <details>
 <summary><strong>Technologies</strong></summary>
@@ -216,7 +216,7 @@ Interaction game for cat and streamer + Donation & chat system for viewers
 
 [**Code**](https://github.com/Avantgarde95/C3DMB)
 
-<kotlin/>
+<kotlin/><opengl/>
 
 <details>
 <summary><strong>Technologies</strong></summary>
