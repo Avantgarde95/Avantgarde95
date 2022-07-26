@@ -222,13 +222,16 @@ No-code 앱 개발 프로그램
 
 ### [TmaxOffice](https://www.tmax.co.kr/tmaxoffice) 연구원 (2021.03 ~)
 
-- 
+
+데스크톱 오피스 제품 ToOffice의 유지보수 및 기능 추가에 참여하였으며, no-code 앱 개발 플랫폼 SuperUX의 개발에 참여하였습니다.
+
+
 
 ## 🏫 Education
 
-KAIST - M.S. in School of Computing 전산학부 석사 (2013 ~ 2018)
+KAIST 전산학부 석사 (2018 ~ 2021)
 
-KAIST - B.S. in School of Computing and Department of Mathematical Sciences 전산학부 및 수리과학과 학사 (2018 ~ 2021)
+KAIST 전산학부 및 수리과학과 학사 (복수전공) (2013 ~ 2018)
 
 ## 📖 Research
 

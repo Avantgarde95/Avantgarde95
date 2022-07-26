@@ -222,13 +222,16 @@ Created for the paper [Collaborative 3D modeling system based on blockchain](htt
 
 ### [TmaxOffice](https://www.tmax.co.kr/tmaxoffice) Researcher (2021.03 ~)
 
-- 
+
+
+I participated in maintaining the desktop office product ToOffice and adding some features on it, and participated in the development of the no-code app development platform SuperUX.
+
 
 ## 🏫 Education
 
-KAIST - M.S. in School of Computing 전산학부 석사 (2013 ~ 2018)
+KAIST M.S. in School of Computing (2018 ~ 2021)
 
-KAIST - B.S. in School of Computing and Department of Mathematical Sciences 전산학부 및 수리과학과 학사 (2018 ~ 2021)
+KAIST B.S. in School of Computing and Department of Mathematical Sciences (Double major) (2013 ~ 2018)
 
 ## 📖 Research
 
