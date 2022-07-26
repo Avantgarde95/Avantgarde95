@@ -167,7 +167,7 @@ Created for the paper [MeowPlayLive: Enhancing Animal Live Streaming Experience 
 
 
 
-This project was carried out by two people, and it was created for the experiment to be used in the above paper. It provides the following features.
+This project was carried out by two people (Me and lead author), and it was created for the experiment to be used in the above paper. It provides the following features.
 
 - Interface for the cat
   - Touch game for the cat (If the cat presses the fishes, mouses, ..., the sounds recorded by the viewers are played)

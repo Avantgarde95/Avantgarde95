@@ -199,7 +199,7 @@ Created for the paper [MeowPlayLive: Enhancing Animal Live Streaming Experience 
 <summary><strong>About</strong></summary>
 
 <ko>
-두 명이서 진행한 프로젝트이며, 위 논문에 실을 실험을 위하여 제작하였습니다. 아래와 같은 기능들을 제공합니다.
+두 명이서 진행한 프로젝트이며 (저와 1저자), 위 논문에 실을 실험을 위하여 제작하였습니다. 아래와 같은 기능들을 제공합니다.
 
 - 고양이를 위한 인터페이스
   - 고양이를 위한 터치 게임 (물고기, 쥐 등을 누르면 시청자가 녹음한 것이 재생됨)
@@ -210,7 +210,7 @@ Created for the paper [MeowPlayLive: Enhancing Animal Live Streaming Experience 
   - 유튜브와 유사한 UI의 채팅 기능
 </ko>
 <en>
-This project was carried out by two people, and it was created for the experiment to be used in the above paper. It provides the following features.
+This project was carried out by two people (Me and lead author), and it was created for the experiment to be used in the above paper. It provides the following features.
 
 - Interface for the cat
   - Touch game for the cat (If the cat presses the fishes, mouses, ..., the sounds recorded by the viewers are played)
