@@ -18,10 +18,14 @@
 ![SeeMe](images/SeeMe/Preview.png)
 
 <ko>
-장애인을 위한 채용 사이트. [타임뱅크](http://www.timebanks.or.kr/) 기관을 위하여 개발.
+장애인을 위한 채용 사이트
+
+[타임뱅크코리아](http://www.timebanks.or.kr/)를 위하여 개발하였습니다.
 </ko>
 <en>
-Recruitment service for people with disabilities, developed for [TimeBanks Korea](http://www.timebanks.or.kr/)
+Recruitment service for people with disabilities
+
+Created for [TimeBanks Korea](http://www.timebanks.or.kr/).
 </en>
 
 [<project-code/>](https://github.com/volunteer-project-1/volunteer_client)

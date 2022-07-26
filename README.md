@@ -18,7 +18,9 @@
 ![SeeMe](images/SeeMe/Preview.png)
 
 
-장애인을 위한 채용 사이트. [타임뱅크](http://www.timebanks.or.kr/) 기관을 위하여 개발.
+장애인을 위한 채용 사이트
+
+[타임뱅크](http://www.timebanks.or.kr/) 기관의 제안으로 개발하였습니다.
 
 
 

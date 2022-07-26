@@ -19,7 +19,9 @@
 
 
 
-Recruitment service for people with disabilities, developed for [TimeBanks Korea](http://www.timebanks.or.kr/)
+Recruitment service for people with disabilities
+
+Developed at the suggestion of [TimeBanks Korea](http://www.timebanks.or.kr/).
 
 
 [![Code](images/Code.svg)](https://github.com/volunteer-project-1/volunteer_client)
