@@ -1,5 +1,8 @@
 const fs = require("fs");
 
+/**
+ * ex. `<js/>` -> `![JavaScript](Badge URL)`
+ */
 function mapBadges(input) {
   // tag: [alt, name, bgColor, fgColor, icon]
   const badgeMap = {
@@ -49,10 +52,17 @@ function mapBadges(input) {
   return result;
 }
 
+/**
+ * Map `<project-code/>` to "Code" image.
+ */
 function mapCode(input) {
   return input.replace(/<project-code\/>/g, "![Code](images/Code.svg)");
 }
 
+/**
+ * Map `<language>Content</language>` to the result of `mapper(Content)`.
+ * ex. `mapLanguage("<ko>가나다</ko>", "ko", part => "하핳")` gives `하핳`.
+ */
 function mapLanguage(input, language, mapper) {
   let index = 0;
   const parts = [];
