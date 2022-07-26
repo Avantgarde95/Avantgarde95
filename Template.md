@@ -18,15 +18,13 @@
 ![SeeMe](images/SeeMe/Preview.png)
 
 <ko>
-장애인을 위한 채용 사이트  
-[타임뱅크](http://www.timebanks.or.kr/) 기관
+장애인을 위한 채용 사이트. [타임뱅크](http://www.timebanks.or.kr/) 기관을 위하여 개발.
 </ko>
 <en>
 Recruitment service for people with disabilities, developed for [TimeBanks Korea](http://www.timebanks.or.kr/)
 </en>
 
-
-[**Code**](https://github.com/volunteer-project-1/volunteer_client)
+[<project-code/>](https://github.com/volunteer-project-1/volunteer_client)
 
 <ts/><scss/><react/><redux/><mui/><next/><aws/>
 
@@ -82,8 +80,8 @@ For companies 회사
 
 ### Tmax SuperUX (2021.06 ~)
 
-Drag-and-drop based app creation program  
-드래그 앤 드롭 기반 앱 제작 프로그램
+No-code app creation program  
+No-code 앱 제작 프로그램
 
 <ts/><scss/><react/><router/><mobx/><mui/><electron/><webpack/><jest/><storybook/>
 
@@ -133,7 +131,7 @@ Office suite for Windows and TmaxOS
 Interaction game for cat and streamer + Donation & chat system for viewers  
 고양이와 스트리머를 위한 상호작용 게임 + 시청자를 위한 도네이션 및 채팅 시스템
 
-[**Code**](https://github.com/cheeeunahn/meowplaylive)
+[<project-code/>](https://github.com/cheeeunahn/meowplaylive)
 
 <ts/><react/><emotion/><mui/><socketio/><node/>
 
@@ -163,7 +161,7 @@ Interaction game for cat and streamer + Donation & chat system for viewers
 3D model and intellectual property management system based on decentralized technologies  
 탈중앙화 기술 기반의 3D 모델 및 지적 재산권 관리 시스템
 
-[**Code**](https://github.com/Avantgarde95/MeshChain-publish)
+[<project-code/>](https://github.com/Avantgarde95/MeshChain-publish)
 
 <kotlin/><js/><python/><ethereum/><solidity/><opengl/>
 
@@ -193,7 +191,7 @@ Interaction game for cat and streamer + Donation & chat system for viewers
 3D modeling collaboration system based on blockchain  
 블록체인 기반 3D 모델링 협업 시스템
 
-[**Code**](https://github.com/Avantgarde95/C3DMB)
+[<project-code/>](https://github.com/Avantgarde95/C3DMB)
 
 <kotlin/><python/><opengl/>
 

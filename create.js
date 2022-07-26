@@ -49,6 +49,10 @@ function mapBadges(input) {
   return result;
 }
 
+function mapCode(input) {
+  return input.replace(/<project-code\/>/g, "![Code](images/Code.svg)");
+}
+
 function mapLanguage(input, language, mapper) {
   let index = 0;
   const parts = [];
@@ -74,7 +78,7 @@ function mapLanguage(input, language, mapper) {
   return parts.join("");
 }
 
-const template = mapBadges(fs.readFileSync("Template.md").toString());
+const template = mapCode(mapBadges(fs.readFileSync("Template.md").toString()));
 
 const korean = mapLanguage(mapLanguage(template, "ko", part => part), "en", part => "");
 const english = mapLanguage(mapLanguage(template, "en", part => part), "ko", part => "");
