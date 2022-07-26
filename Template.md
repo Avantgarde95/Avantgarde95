@@ -176,7 +176,9 @@ Created for the paper [MeowPlayLive: Enhancing Animal Live Streaming Experience 
 
 ### MeshChain (2020.01 ~ 2021.01)
 
-![MeshChain](images/MeshChain/Preview.png)
+<p>
+<img src="images/MeshChain/Preview.png" alt="MeshChain" width="600">
+</p>
 
 <ko>
 탈중앙화 기술 기반의 3D 모델 및 지적 재산권 관리 시스템
@@ -214,7 +216,9 @@ Created for the paper [MeshChain: Secure 3D model and intellectual property mana
 
 ### C3DMB (2018.12 ~ 2020.04)
 
-![C3DMB](images/C3DMB/Preview.png)
+<p>
+<img src="images/C3DMB/Preview.png" alt="C3DMB" width="600">
+</p>
 
 <ko>
 블록체인 기반 3D 모델링 협업 시스템
@@ -261,18 +265,21 @@ KAIST <ko>전산학부 및 수리과학과 학사 (복수전공)</ko><en>B.S. in
 
 ### Collaborative 3D modeling system based on blockchain
 
+*Hunmin Park and Sung-Eui Yoon*
+
 <details>
 <summary><strong>Abstract</strong></summary>
 
 We propose a collaborative 3D modeling system, which is based on the blockchain technology. Our approach uses the blockchain to communicate with modeling tools and to provide them a decentralized database of the mesh modification history. This approach also provides a server-less version control system: users can commit their modifications to the blockchain and checkout others' modifications from the blockchain. As a result, our system enables users to do collaborative modeling without any central server.
 </details>
 
-- Hunmin Park and Sung-Eui Yoon
 - [Homepage](https://avantgarde95.github.io/C3DMB/)
 - [Code](https://github.com/Avantgarde95/C3DMB)
 - Presented at: [Pacific Graphics, 2019 (Poster)](http://pg19.org/)
 
 ### MeshChain: Secure 3D model and intellectual property management powered by blockchain technology
+
+*Hunmin Park, Yuchi Huo and Sung-Eui Yoon*
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -280,7 +287,6 @@ We propose a collaborative 3D modeling system, which is based on the blockchain 
 The intellectual value of digitized 3D properties in scientific, artistic, historical, and entertaining domains is increasing. However, there has been less attention on designing an immutable, secure database for their management. We propose a secure 3D property management platform powered by blockchain and decentralized storage. The platform connects various 3D modeling tools to a decentralized network-based database constructed on blockchain and decentralized storage technologies and provides the commit and checkout of the 3D model to that network. This structure provides 3D data protection from damages and attacks, intellectual property (IP) management, and data source authentication. We analyze its performance and show its applications to cooperative 3D modeling and IP management.
 </details>
 
-- Hunmin Park, Yuchi Huo and Sung-Eui Yoon
 - [Code](https://github.com/Avantgarde95/MeshChain-publish)
 - Presented at: [CGI (Computer Graphics International) 2021](http://www.cgs-network.org/cgi21/program/)
 - Published at: [Springer LNCS (Lecture Notes in Computer Science)](https://link.springer.com/chapter/10.1007/978-3-030-89029-2_40)
