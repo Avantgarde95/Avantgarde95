@@ -224,12 +224,13 @@ No-code 앱 개발 프로그램
 ## 📘 기타 프로젝트들
 
 <details>
-<summary><strong>lets-style</strong></summary>
-
+<summary>
+<strong>lets-style</strong>
 
 직접 구현해본 CSS-in-JS 라이브러리
 
 
+</summary>
 
 ![lets-style](images/lets-style/Preview.png)
 
@@ -244,12 +245,13 @@ Emotion, styled-components 등의 CSS-in-JS 라이브러리들을 사용하면�
 </details>
 
 <details>
-<summary><strong>lets-react</strong></summary>
-
+<summary>
+<strong>lets-react</strong>
 
 React로 구현한 React 튜토리얼
 
 
+</summary>
 
 <p>
 <img src="images/lets-react/Preview.png" alt="lets-react" width="300">
@@ -266,17 +268,18 @@ React로 구현한 React 튜토리얼
 </details>
 
 <details>
-<summary><strong>mypage</strong></summary>
+<summary>
+<strong>mypage</strong>
+
+개인 홈페이지
 
 
-React 및 각종 지식들 공부 목적으로 제작한 개인 홈페이지
-
-
+</summary>
 
 ![mypage](images/mypage/Preview.png)
 
 
-가상의 스마트폰이라는 컨셉을 가지고 있습니다. Webpack, React, Emotion 등의 사용, 그리드, 리스트 등의 레이아웃 구현, 모바일 대응 등의 경험을 쌓았습니다.
+React를 공부하기 위해 제작하였습니다. 가상의 스마트폰이라는 컨셉을 가지고 있습니다. Webpack, React, Emotion 등의 사용, 그리드, 리스트 등의 레이아웃 구현, 모바일 대응 등의 경험을 쌓았습니다.
 
 
 
@@ -286,17 +289,18 @@ React 및 각종 지식들 공부 목적으로 제작한 개인 홈페이지
 </details>
 
 <details>
-<summary><strong>blog</strong></summary>
+<summary>
+<strong>blog</strong>
+
+개인 블로그
 
 
-React 공부 목적으로 제작한 블로그
-
-
+</summary>
 
 ![blog](images/blog/Preview.png)
 
 
-Markdown으로 글을 써서 올릴 수 있습니다. 테마 전환, 카테고리, 검색 등의 기능들을 제공하고 있습니다.
+React에 익숙해지기 위해 제작하였습니다. Markdown으로 글을 써서 올릴 수 있습니다. 테마 전환, 카테고리, 검색 등의 기능들을 제공하고 있습니다.
 
 
 
@@ -306,12 +310,13 @@ Markdown으로 글을 써서 올릴 수 있습니다. 테마 전환, 카테고�
 </details>
 
 <details>
-<summary><strong>C3DMB</strong></summary>
-
+<summary>
+<strong>C3DMB</strong>
 
 블록체인 기반 3D 모델링 협업 시스템
 
 
+</summary>
 
 <p>
 <img src="images/C3DMB/Preview.png" alt="C3DMB" width="600">
@@ -333,12 +338,13 @@ Markdown으로 글을 써서 올릴 수 있습니다. 테마 전환, 카테고�
 </details>
 
 <details>
-<summary><strong>Tmax ToOffice</strong></summary>
-
+<summary>
+<strong>Tmax ToOffice</strong>
 
 윈도우 및 TmaxOS 환경을 위한 오피스 프로그램
 
 
+</summary>
 
 <p>
 <img src="images/ToOffice/Preview.png" alt="ToOffice" width="600">

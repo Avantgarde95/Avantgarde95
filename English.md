@@ -224,12 +224,13 @@ Created for the paper [MeshChain: Secure 3D model and intellectual property mana
 ## 📘 Other projects
 
 <details>
-<summary><strong>lets-style</strong></summary>
-
+<summary>
+<strong>lets-style</strong>
 
 
 My own implementation of CSS-in-JS library
 
+</summary>
 
 ![lets-style](images/lets-style/Preview.png)
 
@@ -244,12 +245,13 @@ While using CSS-in-JS libraries such as Emotion and styled-components, I tried t
 </details>
 
 <details>
-<summary><strong>lets-react</strong></summary>
-
+<summary>
+<strong>lets-react</strong>
 
 
 React tutorial written in React
 
+</summary>
 
 <p>
 <img src="images/lets-react/Preview.png" alt="lets-react" width="300">
@@ -266,18 +268,19 @@ When we started developing web-based products at the company, I created this web
 </details>
 
 <details>
-<summary><strong>mypage</strong></summary>
+<summary>
+<strong>mypage</strong>
 
 
+My homepage
 
-My homepage created for studying React and various knowledges.
-
+</summary>
 
 ![mypage](images/mypage/Preview.png)
 
 
 
-It has a concept of 'virtual smartphone'.
+I created this for studying React. It has a concept of 'virtual smartphone'.
 I gained experience of using Webpack, React, Emotion, etc., and implementing layouts such as grids and lists, and handling mobile devices.
 
 
@@ -287,18 +290,19 @@ I gained experience of using Webpack, React, Emotion, etc., and implementing lay
 </details>
 
 <details>
-<summary><strong>blog</strong></summary>
+<summary>
+<strong>blog</strong>
 
 
+My blog
 
-My blog created for studying React
-
+</summary>
 
 ![blog](images/blog/Preview.png)
 
 
 
-Author can write the posts in Markdown and upload them. The website provides features such as theme change, category, search, etc.
+I created this to be familiar with React. Author can write the posts in Markdown and upload them. The website provides features such as theme change, category, search, etc.
 
 
 [![Code](images/Code.svg)](https://github.com/Avantgarde95/blog)
@@ -307,12 +311,13 @@ Author can write the posts in Markdown and upload them. The website provides fea
 </details>
 
 <details>
-<summary><strong>C3DMB</strong></summary>
-
+<summary>
+<strong>C3DMB</strong>
 
 
 3D modeling collaboration system based on blockchain
 
+</summary>
 
 <p>
 <img src="images/C3DMB/Preview.png" alt="C3DMB" width="600">
@@ -334,12 +339,13 @@ Created for the paper [Collaborative 3D modeling system based on blockchain](htt
 </details>
 
 <details>
-<summary><strong>Tmax ToOffice</strong></summary>
-
+<summary>
+<strong>Tmax ToOffice</strong>
 
 
 Office suite for Windows and TmaxOS
 
+</summary>
 
 <p>
 <img src="images/ToOffice/Preview.png" alt="ToOffice" width="600">

@@ -276,14 +276,15 @@ Created for the paper [MeshChain: Secure 3D model and intellectual property mana
 ## 📘 <ko>기타 프로젝트들</ko><en>Other projects</en>
 
 <details>
-<summary><strong>lets-style</strong></summary>
-
+<summary>
+<strong>lets-style</strong>
 <ko>
 직접 구현해본 CSS-in-JS 라이브러리
 </ko>
 <en>
 My own implementation of CSS-in-JS library
 </en>
+</summary>
 
 ![lets-style](images/lets-style/Preview.png)
 
@@ -300,14 +301,15 @@ While using CSS-in-JS libraries such as Emotion and styled-components, I tried t
 </details>
 
 <details>
-<summary><strong>lets-react</strong></summary>
-
+<summary>
+<strong>lets-react</strong>
 <ko>
 React로 구현한 React 튜토리얼
 </ko>
 <en>
 React tutorial written in React
 </en>
+</summary>
 
 <p>
 <img src="images/lets-react/Preview.png" alt="lets-react" width="300">
@@ -326,22 +328,23 @@ When we started developing web-based products at the company, I created this web
 </details>
 
 <details>
-<summary><strong>mypage</strong></summary>
-
+<summary>
+<strong>mypage</strong>
 <ko>
-React 및 각종 지식들 공부 목적으로 제작한 개인 홈페이지
+개인 홈페이지
 </ko>
 <en>
-My homepage created for studying React and various knowledges.
+My homepage
 </en>
+</summary>
 
 ![mypage](images/mypage/Preview.png)
 
 <ko>
-가상의 스마트폰이라는 컨셉을 가지고 있습니다. Webpack, React, Emotion 등의 사용, 그리드, 리스트 등의 레이아웃 구현, 모바일 대응 등의 경험을 쌓았습니다.
+React를 공부하기 위해 제작하였습니다. 가상의 스마트폰이라는 컨셉을 가지고 있습니다. Webpack, React, Emotion 등의 사용, 그리드, 리스트 등의 레이아웃 구현, 모바일 대응 등의 경험을 쌓았습니다.
 </ko>
 <en>
-It has a concept of 'virtual smartphone'.
+I created this for studying React. It has a concept of 'virtual smartphone'.
 I gained experience of using Webpack, React, Emotion, etc., and implementing layouts such as grids and lists, and handling mobile devices.
 </en>
 
@@ -351,22 +354,23 @@ I gained experience of using Webpack, React, Emotion, etc., and implementing lay
 </details>
 
 <details>
-<summary><strong>blog</strong></summary>
-
+<summary>
+<strong>blog</strong>
 <ko>
-React 공부 목적으로 제작한 블로그
+개인 블로그
 </ko>
 <en>
-My blog created for studying React
+My blog
 </en>
+</summary>
 
 ![blog](images/blog/Preview.png)
 
 <ko>
-Markdown으로 글을 써서 올릴 수 있습니다. 테마 전환, 카테고리, 검색 등의 기능들을 제공하고 있습니다.
+React에 익숙해지기 위해 제작하였습니다. Markdown으로 글을 써서 올릴 수 있습니다. 테마 전환, 카테고리, 검색 등의 기능들을 제공하고 있습니다.
 </ko>
 <en>
-Author can write the posts in Markdown and upload them. The website provides features such as theme change, category, search, etc.
+I created this to be familiar with React. Author can write the posts in Markdown and upload them. The website provides features such as theme change, category, search, etc.
 </en>
 
 [<project-code/>](https://github.com/Avantgarde95/blog)
@@ -375,14 +379,15 @@ Author can write the posts in Markdown and upload them. The website provides fea
 </details>
 
 <details>
-<summary><strong>C3DMB</strong></summary>
-
+<summary>
+<strong>C3DMB</strong>
 <ko>
 블록체인 기반 3D 모델링 협업 시스템
 </ko>
 <en>
 3D modeling collaboration system based on blockchain
 </en>
+</summary>
 
 <p>
 <img src="images/C3DMB/Preview.png" alt="C3DMB" width="600">
@@ -411,14 +416,15 @@ Created for the paper [Collaborative 3D modeling system based on blockchain](htt
 </details>
 
 <details>
-<summary><strong>Tmax ToOffice</strong></summary>
-
+<summary>
+<strong>Tmax ToOffice</strong>
 <ko>
 윈도우 및 TmaxOS 환경을 위한 오피스 프로그램
 </ko>
 <en>
 Office suite for Windows and TmaxOS
 </en>
+</summary>
 
 <p>
 <img src="images/ToOffice/Preview.png" alt="ToOffice" width="600">
