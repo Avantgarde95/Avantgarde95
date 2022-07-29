@@ -226,10 +226,15 @@ No-code 앱 개발 프로그램
 <details>
 <summary><strong>lets-style</strong></summary>
 
+
+직접 구현해본 CSS-in-JS 라이브러리
+
+
+
 ![lets-style](images/lets-style/Preview.png)
 
 
-직접 구현해본 CSS-in-JS 라이브러리
+Emotion, styled-components 등의 CSS-in-JS 라이브러리들을 사용하면서, 비슷한 라이브러리를 직접 구현해보며 해당 방식에 대해 깊이 이해하고자 만들었습니다. 해당 라이브러리들과 유사한 API를 제공하고, 같은 원리로 작동합니다.
 
 
 
@@ -241,12 +246,15 @@ No-code 앱 개발 프로그램
 <details>
 <summary><strong>mypage</strong></summary>
 
+
+React 및 각종 지식들 공부 목적으로 제작한 개인 홈페이지
+
+
+
 ![mypage](images/mypage/Preview.png)
 
 
-React 및 반응형 레이아웃 공부 목적으로 제작한 개인 홈페이지
-
-가상의 스마트폰이라는 컨셉을 가지고 있습니다.
+가상의 스마트폰이라는 컨셉을 가지고 있습니다. Webpack, React, Emotion 등의 사용, 그리드, 리스트 등의 레이아웃 구현, 모바일 대응 등의 경험을 쌓았습니다.
 
 
 
@@ -258,10 +266,13 @@ React 및 반응형 레이아웃 공부 목적으로 제작한 개인 홈페이�
 <details>
 <summary><strong>blog</strong></summary>
 
-![blog](images/blog/Preview.png)
-
 
 React 공부 목적으로 제작한 블로그
+
+
+
+![blog](images/blog/Preview.png)
+
 
 Markdown으로 글을 써서 올릴 수 있습니다. 테마 전환, 카테고리, 검색 등의 기능들을 제공하고 있습니다.
 
@@ -275,12 +286,15 @@ Markdown으로 글을 써서 올릴 수 있습니다. 테마 전환, 카테고�
 <details>
 <summary><strong>C3DMB</strong></summary>
 
+
+블록체인 기반 3D 모델링 협업 시스템
+
+
+
 <p>
 <img src="images/C3DMB/Preview.png" alt="C3DMB" width="600">
 </p>
 
-
-블록체인 기반 3D 모델링 협업 시스템
 
 논문 [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/)을 위하여 제작하였습니다.
 
@@ -309,23 +323,14 @@ Markdown으로 글을 써서 올릴 수 있습니다. 테마 전환, 카테고�
 
 
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)![WinAPI](https://img.shields.io/badge/Win%20API-3171CD?style=for-the-badge&logo=windows&logoColor=FFFFFF)
-
-<details>
-<summary><strong>My role</strong></summary>
+<img src="images/ToOffice/Preview.png" alt="ToOffice" width="600">
 
 
 제품에 체험판 기능을 개발하여 넣었습니다. 편집기 부분의 라이브러리화 작업에 참여하였으며, 그에 필요한 UI 수정, 통신 기능 부여 및 데이터 처리를 맡았습니다. 해당 라이브러리의 개발 문서를 작성하였습니다.
 
 
-</details>
 
-<details>
-<summary><strong>Technologies</strong></summary>
-
-- C++
-- WinAPI
-</details>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)![WinAPI](https://img.shields.io/badge/Win%20API-3171CD?style=for-the-badge&logo=windows&logoColor=FFFFFF)
 </details>
 
 ## 🧑‍💼 경력

@@ -278,13 +278,20 @@ Created for the paper [MeshChain: Secure 3D model and intellectual property mana
 <details>
 <summary><strong>lets-style</strong></summary>
 
-![lets-style](images/lets-style/Preview.png)
-
 <ko>
 직접 구현해본 CSS-in-JS 라이브러리
 </ko>
 <en>
 My own implementation of CSS-in-JS library
+</en>
+
+![lets-style](images/lets-style/Preview.png)
+
+<ko>
+Emotion, styled-components 등의 CSS-in-JS 라이브러리들을 사용하면서, 비슷한 라이브러리를 직접 구현해보며 해당 방식에 대해 깊이 이해하고자 만들었습니다. 해당 라이브러리들과 유사한 API를 제공하고, 같은 원리로 작동합니다.
+</ko>
+<en>
+While using CSS-in-JS libraries such as Emotion and styled-components, I tried to implement a similar library myself to understand that method in depth. It provides APIs similar to those of these libraries, and operates on the same principle.
 </en>
 
 [<project-code/>](https://github.com/Avantgarde95/lets-style)
@@ -295,17 +302,21 @@ My own implementation of CSS-in-JS library
 <details>
 <summary><strong>mypage</strong></summary>
 
+<ko>
+React 및 각종 지식들 공부 목적으로 제작한 개인 홈페이지
+</ko>
+<en>
+My homepage created for studying React and various knowledges.
+</en>
+
 ![mypage](images/mypage/Preview.png)
 
 <ko>
-React 및 반응형 레이아웃 공부 목적으로 제작한 개인 홈페이지
-
-가상의 스마트폰이라는 컨셉을 가지고 있습니다.
+가상의 스마트폰이라는 컨셉을 가지고 있습니다. Webpack, React, Emotion 등의 사용, 그리드, 리스트 등의 레이아웃 구현, 모바일 대응 등의 경험을 쌓았습니다.
 </ko>
 <en>
-My homepage created for studying React and responsive layouts.
-
 It has a concept of 'virtual smartphone'.
+I gained experience of using Webpack, React, Emotion, etc., and implementing layouts such as grids and lists, and handling mobile devices.
 </en>
 
 [<project-code/>](https://github.com/Avantgarde95/Avantgarde95.github.io)
@@ -316,16 +327,19 @@ It has a concept of 'virtual smartphone'.
 <details>
 <summary><strong>blog</strong></summary>
 
-![blog](images/blog/Preview.png)
-
 <ko>
 React 공부 목적으로 제작한 블로그
-
-Markdown으로 글을 써서 올릴 수 있습니다. 테마 전환, 카테고리, 검색 등의 기능들을 제공하고 있습니다.
 </ko>
 <en>
 My blog created for studying React
+</en>
 
+![blog](images/blog/Preview.png)
+
+<ko>
+Markdown으로 글을 써서 올릴 수 있습니다. 테마 전환, 카테고리, 검색 등의 기능들을 제공하고 있습니다.
+</ko>
+<en>
 Author can write the posts in Markdown and upload them. The website provides features such as theme change, category, search, etc.
 </en>
 
@@ -337,18 +351,21 @@ Author can write the posts in Markdown and upload them. The website provides fea
 <details>
 <summary><strong>C3DMB</strong></summary>
 
+<ko>
+블록체인 기반 3D 모델링 협업 시스템
+</ko>
+<en>
+3D modeling collaboration system based on blockchain
+</en>
+
 <p>
 <img src="images/C3DMB/Preview.png" alt="C3DMB" width="600">
 </p>
 
 <ko>
-블록체인 기반 3D 모델링 협업 시스템
-
 논문 [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/)을 위하여 제작하였습니다.
 </ko>
 <en>
-3D modeling collaboration system based on blockchain
-
 Created for the paper [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/).
 </en>
 
@@ -377,10 +394,7 @@ Created for the paper [Collaborative 3D modeling system based on blockchain](htt
 Office suite for Windows and TmaxOS
 </en>
 
-<cpp/><winapi/>
-
-<details>
-<summary><strong>My role</strong></summary>
+<img src="images/ToOffice/Preview.png" alt="ToOffice" width="600">
 
 <ko>
 제품에 체험판 기능을 개발하여 넣었습니다. 편집기 부분의 라이브러리화 작업에 참여하였으며, 그에 필요한 UI 수정, 통신 기능 부여 및 데이터 처리를 맡았습니다. 해당 라이브러리의 개발 문서를 작성하였습니다.
@@ -388,14 +402,8 @@ Office suite for Windows and TmaxOS
 <en>
 I created trial mode for the product. I participated in separation of the editor part as a library: I was responsible for the UI modification, communication feature development and data processing needed for that job. I wrote the development documentation for that library.
 </en>
-</details>
 
-<details>
-<summary><strong>Technologies</strong></summary>
-
-- C++
-- WinAPI
-</details>
+<cpp/><winapi/>
 </details>
 
 ## 🧑‍💼 <ko>경력</ko><en>Careers</en>

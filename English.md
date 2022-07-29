@@ -226,11 +226,16 @@ Created for the paper [MeshChain: Secure 3D model and intellectual property mana
 <details>
 <summary><strong>lets-style</strong></summary>
 
+
+
+My own implementation of CSS-in-JS library
+
+
 ![lets-style](images/lets-style/Preview.png)
 
 
 
-My own implementation of CSS-in-JS library
+While using CSS-in-JS libraries such as Emotion and styled-components, I tried to implement a similar library myself to understand that method in depth. It provides APIs similar to those of these libraries, and operates on the same principle.
 
 
 [![Code](images/Code.svg)](https://github.com/Avantgarde95/lets-style)
@@ -241,13 +246,17 @@ My own implementation of CSS-in-JS library
 <details>
 <summary><strong>mypage</strong></summary>
 
+
+
+My homepage created for studying React and various knowledges.
+
+
 ![mypage](images/mypage/Preview.png)
 
 
 
-My homepage created for studying React and responsive layouts.
-
 It has a concept of 'virtual smartphone'.
+I gained experience of using Webpack, React, Emotion, etc., and implementing layouts such as grids and lists, and handling mobile devices.
 
 
 [![Code](images/Code.svg)](https://github.com/Avantgarde95/Avantgarde95.github.io)
@@ -258,11 +267,14 @@ It has a concept of 'virtual smartphone'.
 <details>
 <summary><strong>blog</strong></summary>
 
-![blog](images/blog/Preview.png)
-
 
 
 My blog created for studying React
+
+
+![blog](images/blog/Preview.png)
+
+
 
 Author can write the posts in Markdown and upload them. The website provides features such as theme change, category, search, etc.
 
@@ -275,13 +287,16 @@ Author can write the posts in Markdown and upload them. The website provides fea
 <details>
 <summary><strong>C3DMB</strong></summary>
 
+
+
+3D modeling collaboration system based on blockchain
+
+
 <p>
 <img src="images/C3DMB/Preview.png" alt="C3DMB" width="600">
 </p>
 
 
-
-3D modeling collaboration system based on blockchain
 
 Created for the paper [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/).
 
@@ -309,23 +324,14 @@ Created for the paper [Collaborative 3D modeling system based on blockchain](htt
 Office suite for Windows and TmaxOS
 
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)![WinAPI](https://img.shields.io/badge/Win%20API-3171CD?style=for-the-badge&logo=windows&logoColor=FFFFFF)
-
-<details>
-<summary><strong>My role</strong></summary>
+<img src="images/ToOffice/Preview.png" alt="ToOffice" width="600">
 
 
 
 I created trial mode for the product. I participated in separation of the editor part as a library: I was responsible for the UI modification, communication feature development and data processing needed for that job. I wrote the development documentation for that library.
 
-</details>
 
-<details>
-<summary><strong>Technologies</strong></summary>
-
-- C++
-- WinAPI
-</details>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)![WinAPI](https://img.shields.io/badge/Win%20API-3171CD?style=for-the-badge&logo=windows&logoColor=FFFFFF)
 </details>
 
 ## 🧑‍💼 Careers
