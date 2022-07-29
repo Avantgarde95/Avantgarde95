@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="98" height="36" role="img" aria-label="Code">
+  <g shape-rendering="crispEdges">
+    <rect width="98" height="36" fill="transparent" stroke="#3478C6" stroke-width="3"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Consolas, monospace" text-rendering="geometricPrecision" font-size="16">
+    <text x="27" y="22" fill="#5498E6" font-weight="bold">&#9654;</text>
+    <text x="66" y="22" fill="#5498E6" font-weight="bold">Run</text>
+  </g>
+</svg>

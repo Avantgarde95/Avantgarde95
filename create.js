@@ -61,6 +61,13 @@ function mapCode(input) {
 }
 
 /**
+ * Map `<project-run/>` to "Run" image.
+ */
+function mapRun(input) {
+  return input.replace(/<project-run\/>/g, "![Run](images/Run.svg)");
+}
+
+/**
  * Map `<language>Content</language>` to the result of `mapper(Content)`.
  * ex. `mapLanguage("<ko>가나다</ko>", "ko", part => "하핳")` gives `하핳`.
  */
@@ -89,7 +96,7 @@ function mapLanguage(input, language, mapper) {
   return parts.join("");
 }
 
-const template = mapCode(mapBadges(fs.readFileSync("Template.md").toString()));
+const template = mapRun(mapCode(mapBadges(fs.readFileSync("Template.md").toString())));
 
 const korean = mapLanguage(mapLanguage(template, "ko", part => part), "en", part => "");
 const english = mapLanguage(mapLanguage(template, "en", part => part), "ko", part => "");
