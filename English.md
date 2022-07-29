@@ -244,6 +244,28 @@ While using CSS-in-JS libraries such as Emotion and styled-components, I tried t
 </details>
 
 <details>
+<summary><strong>lets-react</strong></summary>
+
+
+
+React tutorial written in React
+
+
+<p>
+<img src="images/lets-react/Preview.png" alt="lets-react" width="300">
+</p>
+
+
+
+When we started developing web-based products at the company, I created this website for team members who were new to the web. It contains the basics of the technology stacks used in our product. There are live demos on the articles made by embedding CodeSandbox as well as explanations.
+
+
+[![Code](images/Code.svg)](https://github.com/Avantgarde95/lets-react)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)
+</details>
+
+<details>
 <summary><strong>mypage</strong></summary>
 
 
@@ -298,22 +320,17 @@ Author can write the posts in Markdown and upload them. The website provides fea
 
 
 
-Created for the paper [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/).
+Created for the paper [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/). It provides the following features.
+
+- Simple PoW-based blockchain
+- Display blockchain's state on the GUI
+- Read 3D model from the modeling tool (Blender) and upload on the blockchain network
+- Download 3D model from the blockchain and apply to the modeling tool
 
 
 [![Code](images/Code.svg)](https://github.com/Avantgarde95/C3DMB)
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=FFFFFF)![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFFFFF)![OpenGL](https://img.shields.io/badge/OpenGL-gray?style=for-the-badge&logo=opengl&logoColor=FFFFFF)
-
-<details>
-<summary><strong>Technologies</strong></summary>
-
-- Kotlin
-- Swing
-- JOGL (OpenGL)
-- Blender
-</details>
-
 </details>
 
 <details>
@@ -324,7 +341,9 @@ Created for the paper [Collaborative 3D modeling system based on blockchain](htt
 Office suite for Windows and TmaxOS
 
 
+<p>
 <img src="images/ToOffice/Preview.png" alt="ToOffice" width="600">
+</p>
 
 
 

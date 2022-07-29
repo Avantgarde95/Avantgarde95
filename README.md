@@ -244,6 +244,28 @@ Emotion, styled-components 등의 CSS-in-JS 라이브러리들을 사용하면�
 </details>
 
 <details>
+<summary><strong>lets-react</strong></summary>
+
+
+React로 구현한 React 튜토리얼
+
+
+
+<p>
+<img src="images/lets-react/Preview.png" alt="lets-react" width="300">
+</p>
+
+
+회사에서 웹 기반 제품을 개발할 때 웹을 처음 접했던 팀원들을 위하여 제작하였습니다. 제품 개발에 쓰인 기술 스택들에 대한 기본적인 내용을 담고 있습니다. 각 아티클에, 설명들 뿐만 아니라 CodeSandbox를 embed하여 만든 라이브 데모들도 존재합니다.
+
+
+
+[![Code](images/Code.svg)](https://github.com/Avantgarde95/lets-react)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)
+</details>
+
+<details>
 <summary><strong>mypage</strong></summary>
 
 
@@ -296,23 +318,18 @@ Markdown으로 글을 써서 올릴 수 있습니다. 테마 전환, 카테고�
 </p>
 
 
-논문 [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/)을 위하여 제작하였습니다.
+논문 [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/)을 위하여 제작하였습니다. 아래와 같은 기능들을 제공합니다.
+
+- PoW 방식의 간단한 블록체인
+- 블록체인의 상태를 GUI 상에 보여주기
+- 모델링 도구(Blender)에서 3D 모델을 읽어서 블록체인 네트워크에 올리기
+- 블록체인에서 3D 모델을 다운받아 모델링 도구에 반영하기
 
 
 
 [![Code](images/Code.svg)](https://github.com/Avantgarde95/C3DMB)
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=FFFFFF)![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFFFFF)![OpenGL](https://img.shields.io/badge/OpenGL-gray?style=for-the-badge&logo=opengl&logoColor=FFFFFF)
-
-<details>
-<summary><strong>Technologies</strong></summary>
-
-- Kotlin
-- Swing
-- JOGL (OpenGL)
-- Blender
-</details>
-
 </details>
 
 <details>
@@ -323,7 +340,9 @@ Markdown으로 글을 써서 올릴 수 있습니다. 테마 전환, 카테고�
 
 
 
+<p>
 <img src="images/ToOffice/Preview.png" alt="ToOffice" width="600">
+</p>
 
 
 제품에 체험판 기능을 개발하여 넣었습니다. 편집기 부분의 라이브러리화 작업에 참여하였으며, 그에 필요한 UI 수정, 통신 기능 부여 및 데이터 처리를 맡았습니다. 해당 라이브러리의 개발 문서를 작성하였습니다.

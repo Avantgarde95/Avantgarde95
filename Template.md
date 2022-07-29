@@ -300,6 +300,32 @@ While using CSS-in-JS libraries such as Emotion and styled-components, I tried t
 </details>
 
 <details>
+<summary><strong>lets-react</strong></summary>
+
+<ko>
+React로 구현한 React 튜토리얼
+</ko>
+<en>
+React tutorial written in React
+</en>
+
+<p>
+<img src="images/lets-react/Preview.png" alt="lets-react" width="300">
+</p>
+
+<ko>
+회사에서 웹 기반 제품을 개발할 때 웹을 처음 접했던 팀원들을 위하여 제작하였습니다. 제품 개발에 쓰인 기술 스택들에 대한 기본적인 내용을 담고 있습니다. 각 아티클에, 설명들 뿐만 아니라 CodeSandbox를 embed하여 만든 라이브 데모들도 존재합니다.
+</ko>
+<en>
+When we started developing web-based products at the company, I created this website for team members who were new to the web. It contains the basics of the technology stacks used in our product. There are live demos on the articles made by embedding CodeSandbox as well as explanations.
+</en>
+
+[<project-code/>](https://github.com/Avantgarde95/lets-react)
+
+<ts/><react/><scss/>
+</details>
+
+<details>
 <summary><strong>mypage</strong></summary>
 
 <ko>
@@ -363,25 +389,25 @@ Author can write the posts in Markdown and upload them. The website provides fea
 </p>
 
 <ko>
-논문 [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/)을 위하여 제작하였습니다.
+논문 [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/)을 위하여 제작하였습니다. 아래와 같은 기능들을 제공합니다.
+
+- PoW 방식의 간단한 블록체인
+- 블록체인의 상태를 GUI 상에 보여주기
+- 모델링 도구(Blender)에서 3D 모델을 읽어서 블록체인 네트워크에 올리기
+- 블록체인에서 3D 모델을 다운받아 모델링 도구에 반영하기
 </ko>
 <en>
-Created for the paper [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/).
+Created for the paper [Collaborative 3D modeling system based on blockchain](https://avantgarde95.github.io/C3DMB/). It provides the following features.
+
+- Simple PoW-based blockchain
+- Display blockchain's state on the GUI
+- Read 3D model from the modeling tool (Blender) and upload on the blockchain network
+- Download 3D model from the blockchain and apply to the modeling tool
 </en>
 
 [<project-code/>](https://github.com/Avantgarde95/C3DMB)
 
 <kotlin/><python/><opengl/>
-
-<details>
-<summary><strong>Technologies</strong></summary>
-
-- Kotlin
-- Swing
-- JOGL (OpenGL)
-- Blender
-</details>
-
 </details>
 
 <details>
@@ -394,7 +420,9 @@ Created for the paper [Collaborative 3D modeling system based on blockchain](htt
 Office suite for Windows and TmaxOS
 </en>
 
+<p>
 <img src="images/ToOffice/Preview.png" alt="ToOffice" width="600">
+</p>
 
 <ko>
 제품에 체험판 기능을 개발하여 넣었습니다. 편집기 부분의 라이브러리화 작업에 참여하였으며, 그에 필요한 UI 수정, 통신 기능 부여 및 데이터 처리를 맡았습니다. 해당 라이브러리의 개발 문서를 작성하였습니다.
