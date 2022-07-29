@@ -15,28 +15,17 @@
 
 ### SeeMe (2022.01 ~ 2022.06)
 
-![SeeMe](images/SeeMe/Preview.png)
-
 <ko>
-장애인을 위한 채용 사이트
-
-[타임뱅크코리아](http://www.timebanks.or.kr/)를 위하여 개발하였습니다.
+장애인과 기업들을 연결하는 채용 사이트
 </ko>
 <en>
 Recruitment service for people with disabilities
-
-Created for [TimeBanks Korea](http://www.timebanks.or.kr/).
 </en>
 
-[<project-code/>](https://github.com/volunteer-project-1/volunteer_client)
-
-<ts/><scss/><react/><redux/><mui/><next/><aws/>
-
-<details>
-<summary><strong>About</strong></summary>
+![SeeMe](images/SeeMe/Preview.png)
 
 <ko>
-프론트엔드 개발자 2명, 백엔드 개발자 2명, 디자이너 2명으로 팀을 이루어 진행한 사이드 프로젝트입니다. [타임뱅크코리아](http://www.timebanks.or.kr/)에서 장애인들과 회사들을 연결해주는 플랫폼을 개발해달라는 제안을 하였고, 그 취지가 좋다고 생각하여 재능기부 성격으로 프로젝트를 진행하였습니다.
+[타임뱅크코리아](http://www.timebanks.or.kr/)의 제안으로 시작하게 된 재능기부성 프로젝트입니다. 프론트엔드 개발자 2명, 백엔드 개발자 2명, 디자이너 2명이 모여 진행하였습니다.
 
 서비스는 현재 아래와 같은 기능들을 제공하고 있습니다. 기관과 QA를 진행하고 추가 기능을 기획 & 개발하는 중입니다.
 
@@ -47,27 +36,30 @@ Created for [TimeBanks Korea](http://www.timebanks.or.kr/).
   - 회사 정보 편집
   - 채용 정보 편집
   - 구직자 목록 보기
-- 기타 기능
+- 공통 기능
   - 미디어 뉴스
   - 고객센터
 </ko>
 <en>
-This is a side project run by a team of 2 frontend developers, 2 backend developers, and 2 designers. [TimeBanks Korea](http://www.timebanks.or.kr/) proposed us to develop a platform that connects the disabled and the companies. We thought that such purpose is good, so we proceeded with the project as a talent donation.
+This is a talent donation project started from the proposal of [TimeBanks Korea](http://www.timebanks.or.kr/). The project is run by a team of 2 frontend developers, 2 backend developers, and 2 designers.
 
 The service currently provides the following features. We are doing QA with the organization and planning & developing additional features.
 
 - Login as job seeker
   - Edit resume
-  - See the information of the companies
+  - See companies' information
 - Login as company
   - Edit company information
   - Edit job information
-  - See the information of the job seekers
-- Other features
+  - See job seekers' information
+- Common
   - Media news
   - FAQ
 </en>
-</details>
+
+[<project-code/>](https://github.com/volunteer-project-1/volunteer_client)
+
+<ts/><scss/><react/><redux/><next/><aws/>
 
 <details>
 <summary><strong>My role</strong></summary>
@@ -109,7 +101,7 @@ No-code 앱 개발 프로그램
 No-code app development program
 </en>
 
-<ts/><scss/><react/><router/><mobx/><mui/><electron/><webpack/><jest/><storybook/>
+<ts/><scss/><react/><router/><mobx/><electron/><webpack/><jest/><storybook/>
 
 <details>
 <summary><strong>My role</strong></summary>
@@ -147,49 +139,45 @@ I setup and maintained development & build environment of the project. I was mai
 
 ### MeowPlayLive (2021.07 ~ 2021.11)
 
+<ko>
+고양이 방송 시청자와 고양이가 상호작용하는 웹 인터페이스
+</ko>
+<en>
+Web interface that enables cat live stream viewers to interact with the cat
+</en>
+
 ![MeowPlayLive](images/MeowPlayLive/Preview.jpg)
 
 <ko>
-고양이 방송 시청자가 방송 속의 고양이와 상호작용할 수 있게 해주는 웹 인터페이스
-
 [DIS 2022](https://dis.acm.org/2022/)에서 발표된 논문 [MeowPlayLive: Enhancing Animal Live Streaming Experience Through Voice Message-Based Real-Time Viewer-Animal Interaction](https://dl.acm.org/doi/abs/10.1145/3532106.3533553)을 위하여 제작하였습니다.
-</ko>
-<en>
-Web interface that enables cat live stream viewers to interact with the cat in the video
 
-Created for the paper [MeowPlayLive: Enhancing Animal Live Streaming Experience Through Voice Message-Based Real-Time Viewer-Animal Interaction](https://dl.acm.org/doi/abs/10.1145/3532106.3533553) presented at [DIS 2022](https://dis.acm.org/2022/).
-</en>
-
-[<project-code/>](https://github.com/cheeeunahn/meowplaylive)
-
-<ts/><js/><react/><emotion/><mui/><socketio/><node/>
-
-<details>
-<summary><strong>About</strong></summary>
-
-<ko>
 두 명이서 진행한 프로젝트이며 (저와 1저자), 위 논문에 실을 실험을 위하여 제작하였습니다. 아래와 같은 기능들을 제공합니다.
 
 - 고양이를 위한 인터페이스
-  - 고양이를 위한 터치 게임 (물고기, 쥐 등을 누르면 시청자가 녹음한 것이 재생됨)
+  - 고양이를 위한 터치 게임
 - 시청자를 위한 인터페이스
-  - 게임의 진행 상황을 실시간으로 보는 기능
-  - 자신의 음성을 녹음하고 포인트를 써서 고양이에게 보내는 기능
+  - 터치 게임 실시간 보기
+  - 자신의 음성을 녹음하고 포인트를 소비하여 고양이에게 보내기
   - 사용한 포인트에 따른 랭킹
-  - 유튜브와 유사한 UI의 채팅 기능
+  - 시청자들 간의 채팅 기능
 </ko>
 <en>
+Created for the paper [MeowPlayLive: Enhancing Animal Live Streaming Experience Through Voice Message-Based Real-Time Viewer-Animal Interaction](https://dl.acm.org/doi/abs/10.1145/3532106.3533553) presented at [DIS 2022](https://dis.acm.org/2022/).
+
 This project was carried out by two people (Me and lead author), and it was created for the experiment to be used in the above paper. It provides the following features.
 
 - Interface for the cat
-  - Touch game for the cat (If the cat presses the fishes, mouses, ..., the sounds recorded by the viewers are played)
+  - Touch game for the cat
 - Interface for the viewer
   - See the progress of the game in real time
   - Record the viewer's voice and sending it to the cat after spending some points
   - Ranking according to the amount of spent points
-  - Chat which has similar UI to YouTube
+  - Chat between the viewers
 </en>
-</details>
+
+[<project-code/>](https://github.com/cheeeunahn/meowplaylive)
+
+<ts/><js/><react/><emotion/><socketio/><node/>
 
 <details>
 <summary><strong>My role</strong></summary>
@@ -223,19 +211,36 @@ I implemented the recording & sending UI, chat UI, and ranking UI. In addition, 
 
 ### MeshChain (2020.01 ~ 2021.01)
 
+<ko>
+탈중앙화 기술 기반의 3D 모델 및 지적 재산권 관리 시스템
+</ko>
+<en>
+3D model and intellectual property management system based on decentralized technologies
+</en>
+
 <p>
 <img src="images/MeshChain/Preview.png" alt="MeshChain" width="600">
 </p>
 
 <ko>
-탈중앙화 기술 기반의 3D 모델 및 지적 재산권 관리 시스템
+[CGI 2021](http://www.cgs-network.org/cgi21/program/)에서 발표된 논문 [MeshChain: Secure 3D model and intellectual property management powered by blockchain technology](https://link.springer.com/chapter/10.1007/978-3-030-89029-2_40)를 위하여 제작하였습니다. 1인 제작이며, 아래와 같은 기능들을 제공합니다.
 
-[CGI 2021](http://www.cgs-network.org/cgi21/program/)에서 발표된 논문 [MeshChain: Secure 3D model and intellectual property management powered by blockchain technology](https://link.springer.com/chapter/10.1007/978-3-030-89029-2_40)를 위하여 제작하였습니다.
+- 모델링 도구(Blender)에서 3D 모델 불러오기
+- 3D 모델 수정 내역을 탈중앙화 네트워크에 저장 ('Commit')
+- 수정 내역으로부터 3D 모델을 불러와서 모델링 도구에 반영 ('Checkout')
+- 네트워크 상의 수정 내역들을 GUI 상에 보여주기
+- Commit 시마다 저자에게 자동으로 인센티브 계산하여 지급
+- 저장된 3D 모델과 외부 3D 모델의 유사도 계산
 </ko>
 <en>
-3D model and intellectual property management system based on decentralized technologies
+Created for the paper [MeshChain: Secure 3D model and intellectual property management powered by blockchain technology](https://link.springer.com/chapter/10.1007/978-3-030-89029-2_40) presented at [CGI 2021](http://www.cgs-network.org/cgi21/program/). This is implemented by myself. The program provides the following features.
 
-Created for the paper [MeshChain: Secure 3D model and intellectual property management powered by blockchain technology](https://link.springer.com/chapter/10.1007/978-3-030-89029-2_40) presented at [CGI 2021](http://www.cgs-network.org/cgi21/program/).
+- Import 3D model from modeling tool (Blender)
+- Saving 3D model revision history in a decentralized network ('Commit')
+- Import the 3D model from the revision history and apply it to the modeling tool ('Checkout')
+- Display history on the GUI
+- Calculate incentives and pay those to authors for each commit
+- Calculate similarity between saved 3D model and external 3D model
 </en>
 
 [<project-code/>](https://github.com/Avantgarde95/MeshChain-publish)
@@ -261,7 +266,7 @@ Created for the paper [MeshChain: Secure 3D model and intellectual property mana
 
 <hr>
 
-### <ko>기타 프로젝트들</ko><en>Other projects</en>
+## 📘 <ko>기타 프로젝트들</ko><en>Other projects</en>
 
 <details>
 <summary><strong>lets-style</strong></summary>

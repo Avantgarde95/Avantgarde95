@@ -15,40 +15,34 @@
 
 ### SeeMe (2022.01 ~ 2022.06)
 
-![SeeMe](images/SeeMe/Preview.png)
-
 
 
 Recruitment service for people with disabilities
 
-Created for [TimeBanks Korea](http://www.timebanks.or.kr/).
 
-
-[![Code](images/Code.svg)](https://github.com/volunteer-project-1/volunteer_client)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=FFFFFF)![Material UI](https://img.shields.io/badge/Material%20UI-1F3758?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGNSURBVDhP5dQ7SMNAHMfxpOKTLqIgioKbuIiC4CK6FBUdC3ZxEVwcBAc3hyPgLjh0UxzFwUGEDlIHnQTBoYrvydciiFNFxPP7z6XN9RF07w8+uUcv/yaXtE6tR2k36EXnjzWxoJWFkxwvaafMRFmUjmGe3hNtdzA3gnMUzwkLOk4j+pFhwQH6/FmJ0qMcT7GFLjRAojCIZn9E7IL2rcwgR6EN7NA/xrB8UJZPbOLIHxG7YCEfyKAeS0jhB3vQsJN0PHcBco6fald4zYJp2gRyyGKIuSRtHmE8V3MHHWgJZqpeoYnnZjGABKSwpPQJK73I8R4T/phE7WFplG5Hml6TmShmDnEUz7ULnuEE4T4pXYdlereQq5Hs4tV0Ky8iLOi5jxijJ3tVSBvW0YoLjLMmhTxf1MvYvI9WKvfQc1+CXnme8UChONboX6EH33iDn+iHYvKObchrI7+kG8hDWIXs5yHkDZCt8hP9IOwoLS+13Lr8YiR3WKHQvhmG+V9BiflTmEUn0hT7kumaj+P8AjrWbGRTmZ0EAAAAAElFTkSuQmCC&logoColor=FFFFFF)![Next.js](https://img.shields.io/badge/Next.js-474747?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAITcAACE3ATNYn3oAAAITSURBVDhPnVUxixpBFB4VFVs79xeIjaCHiK0WIkIIJJLm0ihqYWthIQj+h7MS/QEJpLFREWtRrOwV1mijhSIpFF7et5k7M7dzmyMfPH37zbzv7ey8N+MSGhBRgP8+7Xa7j4vFIn44HAyXyyWCweDPeDw+D4VCP3j8G3O/rAAnsNiX0Whk5nI58nq9BOpvA5fP52k8HpuYy5wePOg5nU5P1WqVOLNN6LVhTrlcpvP5/IRY5lRALJPJaIOdDDGIZf8OvDqywf0fq1QqLCGXz04A3+w9y3zLEAsNaEHwKzbg9aRkMkmFQsHGt9ttymazNh4ajEex3W6/63YTgbfbjVKplMJPJhOq1WoKB4MGtNxcZw/X65U5Oy6Xi+h2uyIQQFn+AS9PeiqgAS338Xg0JGfDYDAQpmmKVqslGWdAyy19LZC1VCqJYrEoEomEZJ3hRjtJX4vNZiPq9bq1dL/fL9brtRyxA1pu7s0Ff1BJ6dHv9y3hZrMpGo2G4N6WI3dAA32OsnnUlQ12udfrvTwbhkH7/Z5isRh5PB5lLuylbPhHW9iRSIQ4o8KhLpfLJfl8PoVXChtg592t1+l0iHdd4RALDfbvQIOn02llos64Jmk2m1E0GrWetYcDwBms4wvZ/tXX4XCYptOpdSggBrHM64FXHw6HjgcsxlarlfaAdboCPvMV8GE+nz88d9PzFcA7/sYVIMRvOb7F5mfgXYAAAAAASUVORK5CYII=&logoColor=FFFFFF)![AWS](https://img.shields.io/badge/AWS-E18E28?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF)
-
-<details>
-<summary><strong>About</strong></summary>
+![SeeMe](images/SeeMe/Preview.png)
 
 
 
-This is a side project run by a team of 2 frontend developers, 2 backend developers, and 2 designers. [TimeBanks Korea](http://www.timebanks.or.kr/) proposed us to develop a platform that connects the disabled and the companies. We thought that such purpose is good, so we proceeded with the project as a talent donation.
+This is a talent donation project started from the proposal of [TimeBanks Korea](http://www.timebanks.or.kr/). The project is run by a team of 2 frontend developers, 2 backend developers, and 2 designers.
 
 The service currently provides the following features. We are doing QA with the organization and planning & developing additional features.
 
 - Login as job seeker
   - Edit resume
-  - See the information of the companies
+  - See companies' information
 - Login as company
   - Edit company information
   - Edit job information
-  - See the information of the job seekers
-- Other features
+  - See job seekers' information
+- Common
   - Media news
   - FAQ
 
-</details>
+
+[![Code](images/Code.svg)](https://github.com/volunteer-project-1/volunteer_client)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=FFFFFF)![Next.js](https://img.shields.io/badge/Next.js-474747?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAITcAACE3ATNYn3oAAAITSURBVDhPnVUxixpBFB4VFVs79xeIjaCHiK0WIkIIJJLm0ihqYWthIQj+h7MS/QEJpLFREWtRrOwV1mijhSIpFF7et5k7M7dzmyMfPH37zbzv7ey8N+MSGhBRgP8+7Xa7j4vFIn44HAyXyyWCweDPeDw+D4VCP3j8G3O/rAAnsNiX0Whk5nI58nq9BOpvA5fP52k8HpuYy5wePOg5nU5P1WqVOLNN6LVhTrlcpvP5/IRY5lRALJPJaIOdDDGIZf8OvDqywf0fq1QqLCGXz04A3+w9y3zLEAsNaEHwKzbg9aRkMkmFQsHGt9ttymazNh4ajEex3W6/63YTgbfbjVKplMJPJhOq1WoKB4MGtNxcZw/X65U5Oy6Xi+h2uyIQQFn+AS9PeiqgAS338Xg0JGfDYDAQpmmKVqslGWdAyy19LZC1VCqJYrEoEomEZJ3hRjtJX4vNZiPq9bq1dL/fL9brtRyxA1pu7s0Ff1BJ6dHv9y3hZrMpGo2G4N6WI3dAA32OsnnUlQ12udfrvTwbhkH7/Z5isRh5PB5lLuylbPhHW9iRSIQ4o8KhLpfLJfl8PoVXChtg592t1+l0iHdd4RALDfbvQIOn02llos64Jmk2m1E0GrWetYcDwBms4wvZ/tXX4XCYptOpdSggBrHM64FXHw6HjgcsxlarlfaAdboCPvMV8GE+nz88d9PzFcA7/sYVIMRvOb7F5mfgXYAAAAAASUVORK5CYII=&logoColor=FFFFFF)![AWS](https://img.shields.io/badge/AWS-E18E28?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF)
 
 <details>
 <summary><strong>My role</strong></summary>
@@ -86,7 +80,7 @@ I implemented login & registration page, and also developed inner pages such as 
 No-code app development program
 
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=FFFFFF)![MobX](https://img.shields.io/badge/MobX-D86C31?style=for-the-badge&logo=mobx&logoColor=FFFFFF)![Material UI](https://img.shields.io/badge/Material%20UI-1F3758?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGNSURBVDhP5dQ7SMNAHMfxpOKTLqIgioKbuIiC4CK6FBUdC3ZxEVwcBAc3hyPgLjh0UxzFwUGEDlIHnQTBoYrvydciiFNFxPP7z6XN9RF07w8+uUcv/yaXtE6tR2k36EXnjzWxoJWFkxwvaafMRFmUjmGe3hNtdzA3gnMUzwkLOk4j+pFhwQH6/FmJ0qMcT7GFLjRAojCIZn9E7IL2rcwgR6EN7NA/xrB8UJZPbOLIHxG7YCEfyKAeS0jhB3vQsJN0PHcBco6fald4zYJp2gRyyGKIuSRtHmE8V3MHHWgJZqpeoYnnZjGABKSwpPQJK73I8R4T/phE7WFplG5Hml6TmShmDnEUz7ULnuEE4T4pXYdlereQq5Hs4tV0Ky8iLOi5jxijJ3tVSBvW0YoLjLMmhTxf1MvYvI9WKvfQc1+CXnme8UChONboX6EH33iDn+iHYvKObchrI7+kG8hDWIXs5yHkDZCt8hP9IOwoLS+13Lr8YiR3WKHQvhmG+V9BiflTmEUn0hT7kumaj+P8AjrWbGRTmZ0EAAAAAElFTkSuQmCC&logoColor=FFFFFF)![Electron](https://img.shields.io/badge/Electron-2F3041?style=for-the-badge&logo=electron&logoColor=FFFFFF)![Webpack](https://img.shields.io/badge/Webpack-3A76BA?style=for-the-badge&logo=webpack&logoColor=FFFFFF)![Jest](https://img.shields.io/badge/Jest-8C7079?style=for-the-badge&logo=jest&logoColor=FFFFFF)![Storybook](https://img.shields.io/badge/Storybook-CB3665?style=for-the-badge&logo=storybook&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=FFFFFF)![MobX](https://img.shields.io/badge/MobX-D86C31?style=for-the-badge&logo=mobx&logoColor=FFFFFF)![Electron](https://img.shields.io/badge/Electron-2F3041?style=for-the-badge&logo=electron&logoColor=FFFFFF)![Webpack](https://img.shields.io/badge/Webpack-3A76BA?style=for-the-badge&logo=webpack&logoColor=FFFFFF)![Jest](https://img.shields.io/badge/Jest-8C7079?style=for-the-badge&logo=jest&logoColor=FFFFFF)![Storybook](https://img.shields.io/badge/Storybook-CB3665?style=for-the-badge&logo=storybook&logoColor=FFFFFF)
 
 <details>
 <summary><strong>My role</strong></summary>
@@ -122,35 +116,31 @@ I setup and maintained development & build environment of the project. I was mai
 
 ### MeowPlayLive (2021.07 ~ 2021.11)
 
+
+
+Web interface that enables cat live stream viewers to interact with the cat
+
+
 ![MeowPlayLive](images/MeowPlayLive/Preview.jpg)
 
 
 
-Web interface that enables cat live stream viewers to interact with the cat in the video
-
 Created for the paper [MeowPlayLive: Enhancing Animal Live Streaming Experience Through Voice Message-Based Real-Time Viewer-Animal Interaction](https://dl.acm.org/doi/abs/10.1145/3532106.3533553) presented at [DIS 2022](https://dis.acm.org/2022/).
-
-
-[![Code](images/Code.svg)](https://github.com/cheeeunahn/meowplaylive)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![Emotion](https://img.shields.io/badge/Emotion-C346A8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARlSURBVDhPdZRrbFNlGMf/59Lbabeu3UrXrRubsG7sXqVgAkNFmBNYFi9BISEGNUqMErN4+UDwgxE/gMagqMEL0RhJTMShAY0ajG7GOQSWXUq3zq6zq3SM9d61PT3tOZ4dTqq14ZecvG+e93n+5/++73MOgVtw8qnj5U1E/WkVqeoCAZ6n+BmW4n4KKG98tPfoEy45rYhbCn722MevdmjXHib+l5KjeD6qTnw4khl78aXjh+JyOE+R4NTUFDH75tjRLCv0U6DJGt2q4iQxkGJYl1PwdO9/44BfjkpQ8phnW/rOZ+uU1tdKFAzhjHkQYVNQkBQYWiVn3ETB0SaDQr+zfWP76e9+/yElh0HKYx4TbTy4MvICjztalqFqOIfJuA/u2H+MiA4JpVi6zDe2U01H5KhEgeCxY0d1CoFuWJkvJJdgqA4AzQZk3WEEkyH40ouI55ZBqigIHI9YSeoaG8088N4zb1klAZECQYqgqZVLWMxcR1j7K1y6MELvdqI5WALKG4E/dxkLbBDJZAqCAjAL5VWzpP8VRYLeJ0sUCva/0B/lwCVY42+wrP8DXw9YUOVLSmuOvouwbxlEgp7CSGQYS6kwiAzQUmNTTdDTH0hJIkVnKBDwKg0B/LVgQYhzY3zTJJLqOMatZcgQClyITGMmOodIKgE2mxH3Q1BvnzoRlMuLBTM8N/rLQifquUfQU9eAezv64NxJoKfRhWbHNnRvpGBzBCWHaYKDN+YbkkslitpmTVXjo51lqVa15yp0P67BUFUUTz58BiZ1GprsBNrqFmEui2DYSUFFmL7Yc2L/O3KpRIHDgzue74klUrtvXCuH/1I1Bvt02PPQWWiFBKLJf9ubEKdh8eKG58eW5FCevODTuw/UCJywl6XZM/5YGKN2HvfvOIvK7CKuDAhwngPioZuiV92lQMgGZLHvuQcPVkpBmfyWLzsvxTpbOobVrOYwRdIGVktjQqGG3fQ3atfmULE6C62BwJezTbg8eI/YMjrcoIOHCJ7QX3SPXJVlCs9ww7qNjtqK+u7JrZ0mt60SgbQR80skzLxfbGwKX7nrcIrfj+vbN0FvKMeWTJlBaaaOfDv8/c3eEik4Q7ve5vA2V6tIs0nQtLWBrLZie6Ub6xtzaK3nsb4iAIYhQTIMfGYGMxrCYY4bT8rlEnmHr7/8ydaWrNmumw+VVDt9xlWuOVW6xgyKDKKrYhZK8csY9FuwyHVh87lRdIzNww4LSmlt7d1d9xlzZuXI9LSTzTtU55SP5xhdv8PQtKVDv7bUtszgrm8mMDfeCk+4BH5x66NTm7H5wgxu582w2qehpdWIkoTWx2Z2dVs3MCs6eYdqZcYUr63Z1cqWQkOpxL7TQ00pobkewwwHzPnV0P/ZhHX61ahQl4o/Bhe4aD1+jk3g/JVPqQSTen9y0hmXBHt7e83XQoGBUMCr4RvXwcZqpZesOGDEx7tAIxe04DaVFRbGKK0RkSo4+TDOj3+OWCahUSiUYY/HM/QPnwGrCh3ur7kAAAAASUVORK5CYII=&logoColor=FFFFFF)![Material UI](https://img.shields.io/badge/Material%20UI-1F3758?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGNSURBVDhP5dQ7SMNAHMfxpOKTLqIgioKbuIiC4CK6FBUdC3ZxEVwcBAc3hyPgLjh0UxzFwUGEDlIHnQTBoYrvydciiFNFxPP7z6XN9RF07w8+uUcv/yaXtE6tR2k36EXnjzWxoJWFkxwvaafMRFmUjmGe3hNtdzA3gnMUzwkLOk4j+pFhwQH6/FmJ0qMcT7GFLjRAojCIZn9E7IL2rcwgR6EN7NA/xrB8UJZPbOLIHxG7YCEfyKAeS0jhB3vQsJN0PHcBco6fald4zYJp2gRyyGKIuSRtHmE8V3MHHWgJZqpeoYnnZjGABKSwpPQJK73I8R4T/phE7WFplG5Hml6TmShmDnEUz7ULnuEE4T4pXYdlereQq5Hs4tV0Ky8iLOi5jxijJ3tVSBvW0YoLjLMmhTxf1MvYvI9WKvfQc1+CXnme8UChONboX6EH33iDn+iHYvKObchrI7+kG8hDWIXs5yHkDZCt8hP9IOwoLS+13Lr8YiR3WKHQvhmG+V9BiflTmEUn0hT7kumaj+P8AjrWbGRTmZ0EAAAAAElFTkSuQmCC&logoColor=FFFFFF)![Socket.io](https://img.shields.io/badge/Socket.io-gray?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF)![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-
-<details>
-<summary><strong>About</strong></summary>
-
-
 
 This project was carried out by two people (Me and lead author), and it was created for the experiment to be used in the above paper. It provides the following features.
 
 - Interface for the cat
-  - Touch game for the cat (If the cat presses the fishes, mouses, ..., the sounds recorded by the viewers are played)
+  - Touch game for the cat
 - Interface for the viewer
   - See the progress of the game in real time
   - Record the viewer's voice and sending it to the cat after spending some points
   - Ranking according to the amount of spent points
-  - Chat which has similar UI to YouTube
+  - Chat between the viewers
 
-</details>
+
+[![Code](images/Code.svg)](https://github.com/cheeeunahn/meowplaylive)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![Emotion](https://img.shields.io/badge/Emotion-C346A8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARlSURBVDhPdZRrbFNlGMf/59Lbabeu3UrXrRubsG7sXqVgAkNFmBNYFi9BISEGNUqMErN4+UDwgxE/gMagqMEL0RhJTMShAY0ajG7GOQSWXUq3zq6zq3SM9d61PT3tOZ4dTqq14ZecvG+e93n+5/++73MOgVtw8qnj5U1E/WkVqeoCAZ6n+BmW4n4KKG98tPfoEy45rYhbCn722MevdmjXHib+l5KjeD6qTnw4khl78aXjh+JyOE+R4NTUFDH75tjRLCv0U6DJGt2q4iQxkGJYl1PwdO9/44BfjkpQ8phnW/rOZ+uU1tdKFAzhjHkQYVNQkBQYWiVn3ETB0SaDQr+zfWP76e9+/yElh0HKYx4TbTy4MvICjztalqFqOIfJuA/u2H+MiA4JpVi6zDe2U01H5KhEgeCxY0d1CoFuWJkvJJdgqA4AzQZk3WEEkyH40ouI55ZBqigIHI9YSeoaG8088N4zb1klAZECQYqgqZVLWMxcR1j7K1y6MELvdqI5WALKG4E/dxkLbBDJZAqCAjAL5VWzpP8VRYLeJ0sUCva/0B/lwCVY42+wrP8DXw9YUOVLSmuOvouwbxlEgp7CSGQYS6kwiAzQUmNTTdDTH0hJIkVnKBDwKg0B/LVgQYhzY3zTJJLqOMatZcgQClyITGMmOodIKgE2mxH3Q1BvnzoRlMuLBTM8N/rLQifquUfQU9eAezv64NxJoKfRhWbHNnRvpGBzBCWHaYKDN+YbkkslitpmTVXjo51lqVa15yp0P67BUFUUTz58BiZ1GprsBNrqFmEui2DYSUFFmL7Yc2L/O3KpRIHDgzue74klUrtvXCuH/1I1Bvt02PPQWWiFBKLJf9ubEKdh8eKG58eW5FCevODTuw/UCJywl6XZM/5YGKN2HvfvOIvK7CKuDAhwngPioZuiV92lQMgGZLHvuQcPVkpBmfyWLzsvxTpbOobVrOYwRdIGVktjQqGG3fQ3atfmULE6C62BwJezTbg8eI/YMjrcoIOHCJ7QX3SPXJVlCs9ww7qNjtqK+u7JrZ0mt60SgbQR80skzLxfbGwKX7nrcIrfj+vbN0FvKMeWTJlBaaaOfDv8/c3eEik4Q7ve5vA2V6tIs0nQtLWBrLZie6Ub6xtzaK3nsb4iAIYhQTIMfGYGMxrCYY4bT8rlEnmHr7/8ydaWrNmumw+VVDt9xlWuOVW6xgyKDKKrYhZK8csY9FuwyHVh87lRdIzNww4LSmlt7d1d9xlzZuXI9LSTzTtU55SP5xhdv8PQtKVDv7bUtszgrm8mMDfeCk+4BH5x66NTm7H5wgxu582w2qehpdWIkoTWx2Z2dVs3MCs6eYdqZcYUr63Z1cqWQkOpxL7TQ00pobkewwwHzPnV0P/ZhHX61ahQl4o/Bhe4aD1+jk3g/JVPqQSTen9y0hmXBHt7e83XQoGBUMCr4RvXwcZqpZesOGDEx7tAIxe04DaVFRbGKK0RkSo4+TDOj3+OWCahUSiUYY/HM/QPnwGrCh3ur7kAAAAASUVORK5CYII=&logoColor=FFFFFF)![Socket.io](https://img.shields.io/badge/Socket.io-gray?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF)![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 
 <details>
 <summary><strong>My role</strong></summary>
@@ -182,15 +172,25 @@ I implemented the recording & sending UI, chat UI, and ranking UI. In addition, 
 
 ### MeshChain (2020.01 ~ 2021.01)
 
+
+
+3D model and intellectual property management system based on decentralized technologies
+
+
 <p>
 <img src="images/MeshChain/Preview.png" alt="MeshChain" width="600">
 </p>
 
 
 
-3D model and intellectual property management system based on decentralized technologies
+Created for the paper [MeshChain: Secure 3D model and intellectual property management powered by blockchain technology](https://link.springer.com/chapter/10.1007/978-3-030-89029-2_40) presented at [CGI 2021](http://www.cgs-network.org/cgi21/program/). This is implemented by myself. The program provides the following features.
 
-Created for the paper [MeshChain: Secure 3D model and intellectual property management powered by blockchain technology](https://link.springer.com/chapter/10.1007/978-3-030-89029-2_40) presented at [CGI 2021](http://www.cgs-network.org/cgi21/program/).
+- Import 3D model from modeling tool (Blender)
+- Saving 3D model revision history in a decentralized network ('Commit')
+- Import the 3D model from the revision history and apply it to the modeling tool ('Checkout')
+- Display history on the GUI
+- Calculate incentives and pay those to authors for each commit
+- Calculate similarity between saved 3D model and external 3D model
 
 
 [![Code](images/Code.svg)](https://github.com/Avantgarde95/MeshChain-publish)
@@ -216,7 +216,7 @@ Created for the paper [MeshChain: Secure 3D model and intellectual property mana
 
 <hr>
 
-### Other projects
+## 📘 Other projects
 
 <details>
 <summary><strong>lets-style</strong></summary>
