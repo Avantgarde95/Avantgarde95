@@ -11,7 +11,7 @@
 |<webpack/>|<ko>원하는 개발 & 빌드 환경을 세팅할 수 있습니다. 어플리케이션 뿐만 아니라 라이브러리 세팅 경험도 있습니다.</ko><en>I can construct development & build environment I need. I have experience in setting up not only applications but also libraries.</en>|
 |<cpp/>|<ko>윈도우, 리눅스 등 다양한 환경을 타겟으로 개발하고 빌드할 수 있습니다. 함수 오버로딩, 템플릿 등을 활용하여 코드 중복을 최소화하는 것을 선호합니다.</ko><en>I can develop and build the application for various environments such as Windows and Linux. I prefer to minimize code duplications by utilizing function overloading, templates, etc.</en><br/><br/><opengl/>|
 
-## 🎨 <ko>프로젝트</ko><en>Projects</en>
+## 🎨 <ko>주요 프로젝트</ko><en>Featured projects</en>
 
 ### SeeMe (2022.01 ~ 2022.06)
 
@@ -145,37 +145,6 @@ I setup and maintained development & build environment of the project. I was mai
 
 <hr>
 
-### Tmax ToOffice (2021.03 ~ 2021.05)
-
-<ko>
-윈도우 및 TmaxOS 환경을 위한 오피스 프로그램
-</ko>
-<en>
-Office suite for Windows and TmaxOS
-</en>
-
-<cpp/><winapi/>
-
-<details>
-<summary><strong>My role</strong></summary>
-
-<ko>
-제품에 체험판 기능을 개발하여 넣었습니다. 편집기 부분의 라이브러리화 작업에 참여하였으며, 그에 필요한 UI 수정, 통신 기능 부여 및 데이터 처리를 맡았습니다. 해당 라이브러리의 개발 문서를 작성하였습니다.
-</ko>
-<en>
-I created trial mode for the product. I participated in separation of the editor part as a library: I was responsible for the UI modification, communication feature development and data processing needed for that job. I wrote the development documentation for that library.
-</en>
-</details>
-
-<details>
-<summary><strong>Technologies</strong></summary>
-
-- C++
-- WinAPI
-</details>
-
-<hr>
-
 ### MeowPlayLive (2021.07 ~ 2021.11)
 
 ![MeowPlayLive](images/MeowPlayLive/Preview.jpg)
@@ -292,7 +261,69 @@ Created for the paper [MeshChain: Secure 3D model and intellectual property mana
 
 <hr>
 
-### C3DMB (2018.12 ~ 2020.04)
+### <ko>기타 프로젝트들</ko><en>Other projects</en>
+
+<details>
+<summary><strong>lets-style</strong></summary>
+
+![lets-style](images/lets-style/Preview.png)
+
+<ko>
+직접 구현해본 CSS-in-JS 라이브러리
+</ko>
+<en>
+My own implementation of CSS-in-JS library
+</en>
+
+[<project-code/>](https://github.com/Avantgarde95/lets-style)
+
+<ts/><react/><css/>
+</details>
+
+<details>
+<summary><strong>mypage</strong></summary>
+
+![mypage](images/mypage/Preview.png)
+
+<ko>
+React 및 반응형 레이아웃 공부 목적으로 제작한 개인 홈페이지
+
+가상의 스마트폰이라는 컨셉을 가지고 있습니다.
+</ko>
+<en>
+My homepage created for studying React and responsive layouts.
+
+It has a concept of 'virtual smartphone'.
+</en>
+
+[<project-code/>](https://github.com/Avantgarde95/Avantgarde95.github.io)
+
+<ts/><react/><emotion/><webpack/>
+</details>
+
+<details>
+<summary><strong>blog</strong></summary>
+
+![blog](images/blog/Preview.png)
+
+<ko>
+React 공부 목적으로 제작한 블로그
+
+Markdown으로 글을 써서 올릴 수 있습니다. 테마 전환, 카테고리, 검색 등의 기능들을 제공하고 있습니다.
+</ko>
+<en>
+My blog created for studying React
+
+Author can write the posts in Markdown and upload them. The website provides features such as theme change, category, search, etc.
+</en>
+
+[<project-code/>](https://github.com/Avantgarde95/blog)
+
+<ts/><react/><emotion/><webpack/>
+</details>
+
+<details>
+<summary><strong>C3DMB</strong></summary>
 
 <p>
 <img src="images/C3DMB/Preview.png" alt="C3DMB" width="600">
@@ -320,6 +351,39 @@ Created for the paper [Collaborative 3D modeling system based on blockchain](htt
 - Swing
 - JOGL (OpenGL)
 - Blender
+</details>
+
+</details>
+
+<details>
+<summary><strong>Tmax ToOffice</strong></summary>
+
+<ko>
+윈도우 및 TmaxOS 환경을 위한 오피스 프로그램
+</ko>
+<en>
+Office suite for Windows and TmaxOS
+</en>
+
+<cpp/><winapi/>
+
+<details>
+<summary><strong>My role</strong></summary>
+
+<ko>
+제품에 체험판 기능을 개발하여 넣었습니다. 편집기 부분의 라이브러리화 작업에 참여하였으며, 그에 필요한 UI 수정, 통신 기능 부여 및 데이터 처리를 맡았습니다. 해당 라이브러리의 개발 문서를 작성하였습니다.
+</ko>
+<en>
+I created trial mode for the product. I participated in separation of the editor part as a library: I was responsible for the UI modification, communication feature development and data processing needed for that job. I wrote the development documentation for that library.
+</en>
+</details>
+
+<details>
+<summary><strong>Technologies</strong></summary>
+
+- C++
+- WinAPI
+</details>
 </details>
 
 ## 🧑‍💼 <ko>경력</ko><en>Careers</en>
