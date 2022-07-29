@@ -80,13 +80,20 @@ No-code 앱 개발 프로그램
 
 
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=FFFFFF)![MobX](https://img.shields.io/badge/MobX-D86C31?style=for-the-badge&logo=mobx&logoColor=FFFFFF)![Electron](https://img.shields.io/badge/Electron-2F3041?style=for-the-badge&logo=electron&logoColor=FFFFFF)![Webpack](https://img.shields.io/badge/Webpack-3A76BA?style=for-the-badge&logo=webpack&logoColor=FFFFFF)![Jest](https://img.shields.io/badge/Jest-8C7079?style=for-the-badge&logo=jest&logoColor=FFFFFF)![Storybook](https://img.shields.io/badge/Storybook-CB3665?style=for-the-badge&logo=storybook&logoColor=FFFFFF)
+![Under construction](images/Construction.svg)
+
+
+오피스와 유사한 사용자 경험으로 앱을 개발하기 위한 데스크톱 어플리케이션입니다.
+
+
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![MobX](https://img.shields.io/badge/MobX-D86C31?style=for-the-badge&logo=mobx&logoColor=FFFFFF)![Electron](https://img.shields.io/badge/Electron-2F3041?style=for-the-badge&logo=electron&logoColor=FFFFFF)![Webpack](https://img.shields.io/badge/Webpack-3A76BA?style=for-the-badge&logo=webpack&logoColor=FFFFFF)![Jest](https://img.shields.io/badge/Jest-8C7079?style=for-the-badge&logo=jest&logoColor=FFFFFF)![Storybook](https://img.shields.io/badge/Storybook-CB3665?style=for-the-badge&logo=storybook&logoColor=FFFFFF)
 
 <details>
 <summary><strong>My role</strong></summary>
 
 
-개발 & 빌드 환경 세팅 및 관리를 전담하였습니다. 프로젝트에서 사용하는 기본 클래스들 및 공통 컴포넌트들의 개발을 주로 맡았습니다. 사용자가 view들을 합성하여 새로운 view를 만드는 기능을 개발하였습니다. 이 프로젝트 및 다른 프로젝트에서 사용하는 공통 라이브러리의 개발도 맡았습니다.
+개발 & 빌드 & 테스트 환경 세팅 및 관리를 전담하였습니다. 프로젝트에서 사용하는 기본 클래스들 및 공통 컴포넌트들의 개발을 주로 맡았습니다. 사용자가 view들을 합성하여 새로운 view를 만드는 기능을 개발하였습니다. 이 프로젝트 및 다른 프로젝트에서 사용하는 공통 라이브러리(내부용 npm 패키지)의 개발도 맡았습니다.
 
 
 </details>
@@ -213,8 +220,6 @@ No-code 앱 개발 프로그램
 - Blender
 - JavaScript
 </details>
-
-<hr>
 
 ## 📘 기타 프로젝트들
 

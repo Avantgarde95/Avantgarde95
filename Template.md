@@ -101,16 +101,25 @@ No-code 앱 개발 프로그램
 No-code app development program
 </en>
 
-<ts/><scss/><react/><router/><mobx/><electron/><webpack/><jest/><storybook/>
+![Under construction](images/Construction.svg)
+
+<ko>
+오피스와 유사한 사용자 경험으로 앱을 개발하기 위한 데스크톱 어플리케이션입니다.
+</ko>
+<en>
+It is a desktop application for developing apps with an user experience similar to the office programs.
+</en>
+
+<ts/><scss/><react/><mobx/><electron/><webpack/><jest/><storybook/>
 
 <details>
 <summary><strong>My role</strong></summary>
 
 <ko>
-개발 & 빌드 환경 세팅 및 관리를 전담하였습니다. 프로젝트에서 사용하는 기본 클래스들 및 공통 컴포넌트들의 개발을 주로 맡았습니다. 사용자가 view들을 합성하여 새로운 view를 만드는 기능을 개발하였습니다. 이 프로젝트 및 다른 프로젝트에서 사용하는 공통 라이브러리의 개발도 맡았습니다.
+개발 & 빌드 & 테스트 환경 세팅 및 관리를 전담하였습니다. 프로젝트에서 사용하는 기본 클래스들 및 공통 컴포넌트들의 개발을 주로 맡았습니다. 사용자가 view들을 합성하여 새로운 view를 만드는 기능을 개발하였습니다. 이 프로젝트 및 다른 프로젝트에서 사용하는 공통 라이브러리(내부용 npm 패키지)의 개발도 맡았습니다.
 </ko>
 <en>
-I setup and maintained development & build environment of the project. I was mainly responsible for the development of the base classes and common components used throughout the project. I created a feature for users to create new views by composing existing views. I also developed a common library used by this project and other projects.
+I setup and maintained development & build & test environment of the project. I was mainly responsible for the development of the base classes and common components used throughout the project. I created a feature for users to create new views by composing existing views. I also developed a common library (private npm package) used by this project and other projects.
 </en>
 </details>
 
@@ -263,8 +272,6 @@ Created for the paper [MeshChain: Secure 3D model and intellectual property mana
 - Blender
 - JavaScript
 </details>
-
-<hr>
 
 ## 📘 <ko>기타 프로젝트들</ko><en>Other projects</en>
 

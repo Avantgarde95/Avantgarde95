@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="200" role="img" aria-label="Code">
+  <g shape-rendering="crispEdges">
+    <rect width="400" height="200" fill="transparent" stroke="#3478C6" stroke-width="3"/>
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Consolas, monospace" text-rendering="geometricPrecision" font-size="20">
+    <text x="50%" y="50%" dominant-baseline="middle" fill="#5498E6">🚧 Under construction</text>
+  </g>
+</svg>

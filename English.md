@@ -80,14 +80,21 @@ I implemented login & registration page, and also developed inner pages such as 
 No-code app development program
 
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=FFFFFF)![MobX](https://img.shields.io/badge/MobX-D86C31?style=for-the-badge&logo=mobx&logoColor=FFFFFF)![Electron](https://img.shields.io/badge/Electron-2F3041?style=for-the-badge&logo=electron&logoColor=FFFFFF)![Webpack](https://img.shields.io/badge/Webpack-3A76BA?style=for-the-badge&logo=webpack&logoColor=FFFFFF)![Jest](https://img.shields.io/badge/Jest-8C7079?style=for-the-badge&logo=jest&logoColor=FFFFFF)![Storybook](https://img.shields.io/badge/Storybook-CB3665?style=for-the-badge&logo=storybook&logoColor=FFFFFF)
+![Under construction](images/Construction.svg)
+
+
+
+It is a desktop application for developing apps with an user experience similar to the office programs.
+
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![MobX](https://img.shields.io/badge/MobX-D86C31?style=for-the-badge&logo=mobx&logoColor=FFFFFF)![Electron](https://img.shields.io/badge/Electron-2F3041?style=for-the-badge&logo=electron&logoColor=FFFFFF)![Webpack](https://img.shields.io/badge/Webpack-3A76BA?style=for-the-badge&logo=webpack&logoColor=FFFFFF)![Jest](https://img.shields.io/badge/Jest-8C7079?style=for-the-badge&logo=jest&logoColor=FFFFFF)![Storybook](https://img.shields.io/badge/Storybook-CB3665?style=for-the-badge&logo=storybook&logoColor=FFFFFF)
 
 <details>
 <summary><strong>My role</strong></summary>
 
 
 
-I setup and maintained development & build environment of the project. I was mainly responsible for the development of the base classes and common components used throughout the project. I created a feature for users to create new views by composing existing views. I also developed a common library used by this project and other projects.
+I setup and maintained development & build & test environment of the project. I was mainly responsible for the development of the base classes and common components used throughout the project. I created a feature for users to create new views by composing existing views. I also developed a common library (private npm package) used by this project and other projects.
 
 </details>
 
@@ -213,8 +220,6 @@ Created for the paper [MeshChain: Secure 3D model and intellectual property mana
 - Blender
 - JavaScript
 </details>
-
-<hr>
 
 ## 📘 Other projects
 
