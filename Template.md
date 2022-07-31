@@ -57,6 +57,7 @@ The service currently provides the following features. We are doing QA with the 
   - FAQ
 </en>
 
+[<project-run/>](https://d3lfsar2p3k0ag.cloudfront.net/)
 [<project-code/>](https://github.com/volunteer-project-1/volunteer_client)
 
 <ts/><scss/><react/><redux/><next/><aws/>
