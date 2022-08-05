@@ -40,11 +40,6 @@ The service currently provides the following features. We are doing QA with the 
   - FAQ
 
 
-[![Run](images/Run.svg)](https://d3lfsar2p3k0ag.cloudfront.net/)
-[![Code](images/Code.svg)](https://github.com/volunteer-project-1/volunteer_client)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=FFFFFF)![Next.js](https://img.shields.io/badge/Next.js-474747?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAITcAACE3ATNYn3oAAAITSURBVDhPnVUxixpBFB4VFVs79xeIjaCHiK0WIkIIJJLm0ihqYWthIQj+h7MS/QEJpLFREWtRrOwV1mijhSIpFF7et5k7M7dzmyMfPH37zbzv7ey8N+MSGhBRgP8+7Xa7j4vFIn44HAyXyyWCweDPeDw+D4VCP3j8G3O/rAAnsNiX0Whk5nI58nq9BOpvA5fP52k8HpuYy5wePOg5nU5P1WqVOLNN6LVhTrlcpvP5/IRY5lRALJPJaIOdDDGIZf8OvDqywf0fq1QqLCGXz04A3+w9y3zLEAsNaEHwKzbg9aRkMkmFQsHGt9ttymazNh4ajEex3W6/63YTgbfbjVKplMJPJhOq1WoKB4MGtNxcZw/X65U5Oy6Xi+h2uyIQQFn+AS9PeiqgAS338Xg0JGfDYDAQpmmKVqslGWdAyy19LZC1VCqJYrEoEomEZJ3hRjtJX4vNZiPq9bq1dL/fL9brtRyxA1pu7s0Ff1BJ6dHv9y3hZrMpGo2G4N6WI3dAA32OsnnUlQ12udfrvTwbhkH7/Z5isRh5PB5lLuylbPhHW9iRSIQ4o8KhLpfLJfl8PoVXChtg592t1+l0iHdd4RALDfbvQIOn02llos64Jmk2m1E0GrWetYcDwBms4wvZ/tXX4XCYptOpdSggBrHM64FXHw6HjgcsxlarlfaAdboCPvMV8GE+nz88d9PzFcA7/sYVIMRvOb7F5mfgXYAAAAAASUVORK5CYII=&logoColor=FFFFFF)![AWS](https://img.shields.io/badge/AWS-E18E28?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF)
-
 <details>
 <summary><strong>My role</strong></summary>
 
@@ -54,23 +49,10 @@ I implemented login & registration page, and also developed inner pages such as 
 
 </details>
 
-<details>
-<summary><strong>Technologies</strong></summary>
+[![Run](images/Run.svg)](https://d3lfsar2p3k0ag.cloudfront.net/)
+[![Code](images/Code.svg)](https://github.com/volunteer-project-1/volunteer_client)
 
-- TypeScript
-- SCSS
-- React
-- Redux Toolkit
-- Next.js
-- [react-scoped-css](https://github.com/gaoxiaoliangz/react-scoped-css)
-  - For Vue-like [scoped CSS](https://vue-loader.vuejs.org/guide/scoped-css.html)
-- [MUI (Material UI)](https://mui.com/)
-  - For implementing modals easily
-- [Serverless](https://github.com/serverless-nextjs/serverless-next.js)
-  - For deployment
-- GitHub actions
-  - For automatic deployment
-</details>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=FFFFFF)![Next.js](https://img.shields.io/badge/Next.js-474747?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAITcAACE3ATNYn3oAAAITSURBVDhPnVUxixpBFB4VFVs79xeIjaCHiK0WIkIIJJLm0ihqYWthIQj+h7MS/QEJpLFREWtRrOwV1mijhSIpFF7et5k7M7dzmyMfPH37zbzv7ey8N+MSGhBRgP8+7Xa7j4vFIn44HAyXyyWCweDPeDw+D4VCP3j8G3O/rAAnsNiX0Whk5nI58nq9BOpvA5fP52k8HpuYy5wePOg5nU5P1WqVOLNN6LVhTrlcpvP5/IRY5lRALJPJaIOdDDGIZf8OvDqywf0fq1QqLCGXz04A3+w9y3zLEAsNaEHwKzbg9aRkMkmFQsHGt9ttymazNh4ajEex3W6/63YTgbfbjVKplMJPJhOq1WoKB4MGtNxcZw/X65U5Oy6Xi+h2uyIQQFn+AS9PeiqgAS338Xg0JGfDYDAQpmmKVqslGWdAyy19LZC1VCqJYrEoEomEZJ3hRjtJX4vNZiPq9bq1dL/fL9brtRyxA1pu7s0Ff1BJ6dHv9y3hZrMpGo2G4N6WI3dAA32OsnnUlQ12udfrvTwbhkH7/Z5isRh5PB5lLuylbPhHW9iRSIQ4o8KhLpfLJfl8PoVXChtg592t1+l0iHdd4RALDfbvQIOn02llos64Jmk2m1E0GrWetYcDwBms4wvZ/tXX4XCYptOpdSggBrHM64FXHw6HjgcsxlarlfaAdboCPvMV8GE+nz88d9PzFcA7/sYVIMRvOb7F5mfgXYAAAAAASUVORK5CYII=&logoColor=FFFFFF)![AWS](https://img.shields.io/badge/AWS-E18E28?style=for-the-badge&logo=amazonaws&logoColor=FFFFFF)
 
 <hr>
 
@@ -88,8 +70,6 @@ No-code app development program
 It is a desktop application for developing apps with an user experience similar to the office programs.
 
 
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![MobX](https://img.shields.io/badge/MobX-D86C31?style=for-the-badge&logo=mobx&logoColor=FFFFFF)![Electron](https://img.shields.io/badge/Electron-2F3041?style=for-the-badge&logo=electron&logoColor=FFFFFF)![Webpack](https://img.shields.io/badge/Webpack-3A76BA?style=for-the-badge&logo=webpack&logoColor=FFFFFF)![Jest](https://img.shields.io/badge/Jest-8C7079?style=for-the-badge&logo=jest&logoColor=FFFFFF)![Storybook](https://img.shields.io/badge/Storybook-CB3665?style=for-the-badge&logo=storybook&logoColor=FFFFFF)
-
 <details>
 <summary><strong>My role</strong></summary>
 
@@ -99,26 +79,7 @@ I setup and maintained development & build & test environment of the project. I 
 
 </details>
 
-<details>
-<summary><strong>Technologies</strong></summary>
-
-- TypeScript
-- SCSS
-- React
-- MobX
-- React Router
-- i18next
-  - For resource loading and internalization
-- axios
-- Webpack
-- MUI
-- Jest
-- Storybook
-- ESLint
-- StyleLint
-- Electron
-  - For generating a desktop application
-</details>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![MobX](https://img.shields.io/badge/MobX-D86C31?style=for-the-badge&logo=mobx&logoColor=FFFFFF)![Electron](https://img.shields.io/badge/Electron-2F3041?style=for-the-badge&logo=electron&logoColor=FFFFFF)![Webpack](https://img.shields.io/badge/Webpack-3A76BA?style=for-the-badge&logo=webpack&logoColor=FFFFFF)![Jest](https://img.shields.io/badge/Jest-8C7079?style=for-the-badge&logo=jest&logoColor=FFFFFF)![Storybook](https://img.shields.io/badge/Storybook-CB3665?style=for-the-badge&logo=storybook&logoColor=FFFFFF)
 
 <hr>
 
@@ -146,10 +107,6 @@ This project was carried out by two people (Me and lead author), and it was crea
   - Chat between the viewers
 
 
-[![Code](images/Code.svg)](https://github.com/cheeeunahn/meowplaylive)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![Emotion](https://img.shields.io/badge/Emotion-C346A8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARlSURBVDhPdZRrbFNlGMf/59Lbabeu3UrXrRubsG7sXqVgAkNFmBNYFi9BISEGNUqMErN4+UDwgxE/gMagqMEL0RhJTMShAY0ajG7GOQSWXUq3zq6zq3SM9d61PT3tOZ4dTqq14ZecvG+e93n+5/++73MOgVtw8qnj5U1E/WkVqeoCAZ6n+BmW4n4KKG98tPfoEy45rYhbCn722MevdmjXHib+l5KjeD6qTnw4khl78aXjh+JyOE+R4NTUFDH75tjRLCv0U6DJGt2q4iQxkGJYl1PwdO9/44BfjkpQ8phnW/rOZ+uU1tdKFAzhjHkQYVNQkBQYWiVn3ETB0SaDQr+zfWP76e9+/yElh0HKYx4TbTy4MvICjztalqFqOIfJuA/u2H+MiA4JpVi6zDe2U01H5KhEgeCxY0d1CoFuWJkvJJdgqA4AzQZk3WEEkyH40ouI55ZBqigIHI9YSeoaG8088N4zb1klAZECQYqgqZVLWMxcR1j7K1y6MELvdqI5WALKG4E/dxkLbBDJZAqCAjAL5VWzpP8VRYLeJ0sUCva/0B/lwCVY42+wrP8DXw9YUOVLSmuOvouwbxlEgp7CSGQYS6kwiAzQUmNTTdDTH0hJIkVnKBDwKg0B/LVgQYhzY3zTJJLqOMatZcgQClyITGMmOodIKgE2mxH3Q1BvnzoRlMuLBTM8N/rLQifquUfQU9eAezv64NxJoKfRhWbHNnRvpGBzBCWHaYKDN+YbkkslitpmTVXjo51lqVa15yp0P67BUFUUTz58BiZ1GprsBNrqFmEui2DYSUFFmL7Yc2L/O3KpRIHDgzue74klUrtvXCuH/1I1Bvt02PPQWWiFBKLJf9ubEKdh8eKG58eW5FCevODTuw/UCJywl6XZM/5YGKN2HvfvOIvK7CKuDAhwngPioZuiV92lQMgGZLHvuQcPVkpBmfyWLzsvxTpbOobVrOYwRdIGVktjQqGG3fQ3atfmULE6C62BwJezTbg8eI/YMjrcoIOHCJ7QX3SPXJVlCs9ww7qNjtqK+u7JrZ0mt60SgbQR80skzLxfbGwKX7nrcIrfj+vbN0FvKMeWTJlBaaaOfDv8/c3eEik4Q7ve5vA2V6tIs0nQtLWBrLZie6Ub6xtzaK3nsb4iAIYhQTIMfGYGMxrCYY4bT8rlEnmHr7/8ydaWrNmumw+VVDt9xlWuOVW6xgyKDKKrYhZK8csY9FuwyHVh87lRdIzNww4LSmlt7d1d9xlzZuXI9LSTzTtU55SP5xhdv8PQtKVDv7bUtszgrm8mMDfeCk+4BH5x66NTm7H5wgxu582w2qehpdWIkoTWx2Z2dVs3MCs6eYdqZcYUr63Z1cqWQkOpxL7TQ00pobkewwwHzPnV0P/ZhHX61ahQl4o/Bhe4aD1+jk3g/JVPqQSTen9y0hmXBHt7e83XQoGBUMCr4RvXwcZqpZesOGDEx7tAIxe04DaVFRbGKK0RkSo4+TDOj3+OWCahUSiUYY/HM/QPnwGrCh3ur7kAAAAASUVORK5CYII=&logoColor=FFFFFF)![Socket.io](https://img.shields.io/badge/Socket.io-gray?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF)![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
-
 <details>
 <summary><strong>My role</strong></summary>
 
@@ -159,24 +116,32 @@ I implemented the recording & sending UI, chat UI, and ranking UI. In addition, 
 
 </details>
 
-<details>
-<summary><strong>Technologies</strong></summary>
+[![Code](images/Code.svg)](https://github.com/cheeeunahn/meowplaylive)
 
-- TypeScript
-- React
-- Emotion
-- MUI
-- Node.js
-- Express
-- Socket.io
-  - Enables server to notify the clients
-  - Necessary for implementing chat, etc.
-- [NeDB](https://github.com/louischatriot/nedb)
-- Webpack
-- [p5.js](https://p5js.org/)
-</details>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![Emotion](https://img.shields.io/badge/Emotion-C346A8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARlSURBVDhPdZRrbFNlGMf/59Lbabeu3UrXrRubsG7sXqVgAkNFmBNYFi9BISEGNUqMErN4+UDwgxE/gMagqMEL0RhJTMShAY0ajG7GOQSWXUq3zq6zq3SM9d61PT3tOZ4dTqq14ZecvG+e93n+5/++73MOgVtw8qnj5U1E/WkVqeoCAZ6n+BmW4n4KKG98tPfoEy45rYhbCn722MevdmjXHib+l5KjeD6qTnw4khl78aXjh+JyOE+R4NTUFDH75tjRLCv0U6DJGt2q4iQxkGJYl1PwdO9/44BfjkpQ8phnW/rOZ+uU1tdKFAzhjHkQYVNQkBQYWiVn3ETB0SaDQr+zfWP76e9+/yElh0HKYx4TbTy4MvICjztalqFqOIfJuA/u2H+MiA4JpVi6zDe2U01H5KhEgeCxY0d1CoFuWJkvJJdgqA4AzQZk3WEEkyH40ouI55ZBqigIHI9YSeoaG8088N4zb1klAZECQYqgqZVLWMxcR1j7K1y6MELvdqI5WALKG4E/dxkLbBDJZAqCAjAL5VWzpP8VRYLeJ0sUCva/0B/lwCVY42+wrP8DXw9YUOVLSmuOvouwbxlEgp7CSGQYS6kwiAzQUmNTTdDTH0hJIkVnKBDwKg0B/LVgQYhzY3zTJJLqOMatZcgQClyITGMmOodIKgE2mxH3Q1BvnzoRlMuLBTM8N/rLQifquUfQU9eAezv64NxJoKfRhWbHNnRvpGBzBCWHaYKDN+YbkkslitpmTVXjo51lqVa15yp0P67BUFUUTz58BiZ1GprsBNrqFmEui2DYSUFFmL7Yc2L/O3KpRIHDgzue74klUrtvXCuH/1I1Bvt02PPQWWiFBKLJf9ubEKdh8eKG58eW5FCevODTuw/UCJywl6XZM/5YGKN2HvfvOIvK7CKuDAhwngPioZuiV92lQMgGZLHvuQcPVkpBmfyWLzsvxTpbOobVrOYwRdIGVktjQqGG3fQ3atfmULE6C62BwJezTbg8eI/YMjrcoIOHCJ7QX3SPXJVlCs9ww7qNjtqK+u7JrZ0mt60SgbQR80skzLxfbGwKX7nrcIrfj+vbN0FvKMeWTJlBaaaOfDv8/c3eEik4Q7ve5vA2V6tIs0nQtLWBrLZie6Ub6xtzaK3nsb4iAIYhQTIMfGYGMxrCYY4bT8rlEnmHr7/8ydaWrNmumw+VVDt9xlWuOVW6xgyKDKKrYhZK8csY9FuwyHVh87lRdIzNww4LSmlt7d1d9xlzZuXI9LSTzTtU55SP5xhdv8PQtKVDv7bUtszgrm8mMDfeCk+4BH5x66NTm7H5wgxu582w2qehpdWIkoTWx2Z2dVs3MCs6eYdqZcYUr63Z1cqWQkOpxL7TQ00pobkewwwHzPnV0P/ZhHX61ahQl4o/Bhe4aD1+jk3g/JVPqQSTen9y0hmXBHt7e83XQoGBUMCr4RvXwcZqpZesOGDEx7tAIxe04DaVFRbGKK0RkSo4+TDOj3+OWCahUSiUYY/HM/QPnwGrCh3ur7kAAAAASUVORK5CYII=&logoColor=FFFFFF)![Socket.io](https://img.shields.io/badge/Socket.io-gray?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF)![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
 
 <hr>
+
+### lets-react (2021.06)
+
+
+
+React tutorial written in React
+
+
+<p>
+<img src="images/lets-react/Preview.png" alt="lets-react" width="300">
+</p>
+
+
+
+When we started developing web-based products at the company, I created this website for team members who were new to the web. It contains the basics of the technology stacks used in our product. There are live demos on the articles made by embedding CodeSandbox as well as explanations.
+
+
+[![Run](images/Run.svg)](https://avantgarde95.github.io/lets-react/)
+[![Code](images/Code.svg)](https://github.com/Avantgarde95/lets-react)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)![Webpack](https://img.shields.io/badge/Webpack-3A76BA?style=for-the-badge&logo=webpack&logoColor=FFFFFF)
 
 ### MeshChain (2020.01 ~ 2021.01)
 
@@ -205,23 +170,6 @@ Created for the paper [MeshChain: Secure 3D model and intellectual property mana
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=FFFFFF)![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF)![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=FFFFFF)![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=FFFFFF)![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=FFFFFF)![OpenGL](https://img.shields.io/badge/OpenGL-gray?style=for-the-badge&logo=opengl&logoColor=FFFFFF)
 
-<details>
-<summary><strong>Technologies</strong></summary>
-
-- Kotlin
-- Swing
-  - GUI framework
-- JOGL (OpenGL)
-  - For 3D rendering
-- Web3
-- Ethereum (Geth)
-- Solidity
-- [Swarm](https://github.com/ethersphere/swarm)
-  - For storing large data
-- Blender
-- JavaScript
-</details>
-
 ## 📘 Other projects
 
 <details>
@@ -244,30 +192,6 @@ While using CSS-in-JS libraries such as Emotion and styled-components, I tried t
 [![Code](images/Code.svg)](https://github.com/Avantgarde95/lets-style)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-</details>
-
-<details>
-<summary>
-<strong>lets-react</strong>
-
-
-React tutorial written in React
-
-</summary>
-
-<p>
-<img src="images/lets-react/Preview.png" alt="lets-react" width="300">
-</p>
-
-
-
-When we started developing web-based products at the company, I created this website for team members who were new to the web. It contains the basics of the technology stacks used in our product. There are live demos on the articles made by embedding CodeSandbox as well as explanations.
-
-
-[![Run](images/Run.svg)](https://avantgarde95.github.io/lets-react/)
-[![Code](images/Code.svg)](https://github.com/Avantgarde95/lets-react)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=FFFFFF)![React](https://img.shields.io/badge/React-4395D1?style=for-the-badge&logo=react&logoColor=FFFFFF)![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF)
 </details>
 
 <details>

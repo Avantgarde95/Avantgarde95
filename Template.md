@@ -57,11 +57,6 @@ The service currently provides the following features. We are doing QA with the 
   - FAQ
 </en>
 
-[<project-run/>](https://d3lfsar2p3k0ag.cloudfront.net/)
-[<project-code/>](https://github.com/volunteer-project-1/volunteer_client)
-
-<ts/><scss/><react/><redux/><next/><aws/>
-
 <details>
 <summary><strong>My role</strong></summary>
 
@@ -73,23 +68,10 @@ I implemented login & registration page, and also developed inner pages such as 
 </en>
 </details>
 
-<details>
-<summary><strong>Technologies</strong></summary>
+[<project-run/>](https://d3lfsar2p3k0ag.cloudfront.net/)
+[<project-code/>](https://github.com/volunteer-project-1/volunteer_client)
 
-- TypeScript
-- SCSS
-- React
-- Redux Toolkit
-- Next.js
-- [react-scoped-css](https://github.com/gaoxiaoliangz/react-scoped-css)
-  - For Vue-like [scoped CSS](https://vue-loader.vuejs.org/guide/scoped-css.html)
-- [MUI (Material UI)](https://mui.com/)
-  - For implementing modals easily
-- [Serverless](https://github.com/serverless-nextjs/serverless-next.js)
-  - For deployment
-- GitHub actions
-  - For automatic deployment
-</details>
+<ts/><scss/><react/><redux/><next/><aws/>
 
 <hr>
 
@@ -111,8 +93,6 @@ No-code app development program
 It is a desktop application for developing apps with an user experience similar to the office programs.
 </en>
 
-<ts/><scss/><react/><mobx/><electron/><webpack/><jest/><storybook/>
-
 <details>
 <summary><strong>My role</strong></summary>
 
@@ -124,26 +104,7 @@ I setup and maintained development & build & test environment of the project. I 
 </en>
 </details>
 
-<details>
-<summary><strong>Technologies</strong></summary>
-
-- TypeScript
-- SCSS
-- React
-- MobX
-- React Router
-- i18next
-  - For resource loading and internalization
-- axios
-- Webpack
-- MUI
-- Jest
-- Storybook
-- ESLint
-- StyleLint
-- Electron
-  - For generating a desktop application
-</details>
+<ts/><scss/><react/><mobx/><electron/><webpack/><jest/><storybook/>
 
 <hr>
 
@@ -185,10 +146,6 @@ This project was carried out by two people (Me and lead author), and it was crea
   - Chat between the viewers
 </en>
 
-[<project-code/>](https://github.com/cheeeunahn/meowplaylive)
-
-<ts/><js/><react/><emotion/><socketio/><node/>
-
 <details>
 <summary><strong>My role</strong></summary>
 
@@ -200,24 +157,36 @@ I implemented the recording & sending UI, chat UI, and ranking UI. In addition, 
 </en>
 </details>
 
-<details>
-<summary><strong>Technologies</strong></summary>
+[<project-code/>](https://github.com/cheeeunahn/meowplaylive)
 
-- TypeScript
-- React
-- Emotion
-- MUI
-- Node.js
-- Express
-- Socket.io
-  - Enables server to notify the clients
-  - Necessary for implementing chat, etc.
-- [NeDB](https://github.com/louischatriot/nedb)
-- Webpack
-- [p5.js](https://p5js.org/)
-</details>
+<ts/><js/><react/><emotion/><socketio/><node/>
 
 <hr>
+
+### lets-react (2021.06)
+
+<ko>
+React로 구현한 React 튜토리얼
+</ko>
+<en>
+React tutorial written in React
+</en>
+
+<p>
+<img src="images/lets-react/Preview.png" alt="lets-react" width="300">
+</p>
+
+<ko>
+회사에서 웹 기반 제품을 개발할 때 웹을 처음 접했던 팀원들을 위하여 제작하였습니다. 제품 개발에 쓰인 기술 스택들에 대한 기본적인 내용을 담고 있습니다. 각 아티클에, 설명들 뿐만 아니라 CodeSandbox를 embed하여 만든 라이브 데모들도 존재합니다.
+</ko>
+<en>
+When we started developing web-based products at the company, I created this website for team members who were new to the web. It contains the basics of the technology stacks used in our product. There are live demos on the articles made by embedding CodeSandbox as well as explanations.
+</en>
+
+[<project-run/>](https://avantgarde95.github.io/lets-react/)
+[<project-code/>](https://github.com/Avantgarde95/lets-react)
+
+<ts/><react/><scss/><webpack/>
 
 ### MeshChain (2020.01 ~ 2021.01)
 
@@ -257,23 +226,6 @@ Created for the paper [MeshChain: Secure 3D model and intellectual property mana
 
 <kotlin/><js/><python/><ethereum/><solidity/><opengl/>
 
-<details>
-<summary><strong>Technologies</strong></summary>
-
-- Kotlin
-- Swing
-  - GUI framework
-- JOGL (OpenGL)
-  - For 3D rendering
-- Web3
-- Ethereum (Geth)
-- Solidity
-- [Swarm](https://github.com/ethersphere/swarm)
-  - For storing large data
-- Blender
-- JavaScript
-</details>
-
 ## 📘 <ko>기타 프로젝트들</ko><en>Other projects</en>
 
 <details>
@@ -300,34 +252,6 @@ While using CSS-in-JS libraries such as Emotion and styled-components, I tried t
 [<project-code/>](https://github.com/Avantgarde95/lets-style)
 
 <ts/><react/><css/>
-</details>
-
-<details>
-<summary>
-<strong>lets-react</strong>
-<ko>
-React로 구현한 React 튜토리얼
-</ko>
-<en>
-React tutorial written in React
-</en>
-</summary>
-
-<p>
-<img src="images/lets-react/Preview.png" alt="lets-react" width="300">
-</p>
-
-<ko>
-회사에서 웹 기반 제품을 개발할 때 웹을 처음 접했던 팀원들을 위하여 제작하였습니다. 제품 개발에 쓰인 기술 스택들에 대한 기본적인 내용을 담고 있습니다. 각 아티클에, 설명들 뿐만 아니라 CodeSandbox를 embed하여 만든 라이브 데모들도 존재합니다.
-</ko>
-<en>
-When we started developing web-based products at the company, I created this website for team members who were new to the web. It contains the basics of the technology stacks used in our product. There are live demos on the articles made by embedding CodeSandbox as well as explanations.
-</en>
-
-[<project-run/>](https://avantgarde95.github.io/lets-react/)
-[<project-code/>](https://github.com/Avantgarde95/lets-react)
-
-<ts/><react/><scss/>
 </details>
 
 <details>
