@@ -283,32 +283,6 @@ I gained experience of using Webpack, React, Emotion, etc., and implementing lay
 
 <details>
 <summary>
-<strong>blog</strong>
-<ko>
-개인 블로그
-</ko>
-<en>
-My blog
-</en>
-</summary>
-
-![blog](images/blog/Preview.png)
-
-<ko>
-React에 익숙해지기 위해 제작하였습니다. Markdown으로 글을 써서 올릴 수 있습니다. 테마 전환, 카테고리, 검색 등의 기능들을 제공하고 있습니다.
-</ko>
-<en>
-I created this to be familiar with React. Author can write the posts in Markdown and upload them. The website provides features such as theme change, category, search, etc.
-</en>
-
-[<project-run/>](https://avantgarde95.github.io/blog/)
-[<project-code/>](https://github.com/Avantgarde95/blog)
-
-<ts/><react/><emotion/><webpack/>
-</details>
-
-<details>
-<summary>
 <strong>C3DMB</strong>
 <ko>
 블록체인 기반 3D 모델링 협업 시스템
